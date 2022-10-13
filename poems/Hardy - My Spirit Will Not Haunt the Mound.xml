@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "https://prosody.lib.virginia.edu/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">   
+   <teiHeader type="text">          
+      <fileDesc>              
+         <titleStmt>                  
+            <title>My Spirit Will Not Haunt the Mound</title>                  
+            <author>Thomas Hardy</author>              
+         </titleStmt>              
+         <publicationStmt><date>1914</date></publicationStmt>              
+         <sourceDesc default="false"><p/></sourceDesc>          
+      </fileDesc>      
+   </teiHeader>     
+   <text>         
+      <body>             
+         <lg n="1" type="cinquain" met="-+(4/2/4/4/2)" rhyme="abbab" org="uniform" sample="complete" part="N">                 
+            <l n="1" met="-+-+-+-+" real="-+-+-+-+" part="N">                     
+               <seg>My spir<sb/></seg>                     
+               <seg>it will </seg>                                         
+               <seg>not haunt </seg>                     
+               <seg>the <rhyme label="a">mound</rhyme></seg>                                                
+            </l>
+            <l n="2" met="-+-+" real="-+-+" part="N">                     
+               <seg met="-+">A<sb/>bove </seg>                     
+               <seg met="-+">my <rhyme label="b">breast,</rhyme></seg>                                   
+            </l>
+            <l n="3" met="-+-+-+-+" real="-+-+-+-+" part="N">                     
+               <seg>But tra<sb/></seg>                     
+               <seg>vel, mem<sb/></seg>                     
+               <seg>o<sb/>ry </seg>                     
+               <seg>po<sb/><rhyme label="b"></rhyme>ssessed,</seg>                 
+            </l>
+            <l n="4" met="-+-+-+-+" real="-+-+--+-+" part="N">                     
+               <seg>To where </seg>                     
+               <seg>my trem<sb/></seg>                     
+               <seg met="-+" real="--+" part="N">u<sb/>lous be<sb/></seg>  
+               <seg>ing <rhyme label="a">found</rhyme></seg>
+            </l>
+            <l n="5" met="-+-+" real="++-+" part="N">
+               <seg met="-+" real="++" part="N">Life lar<sb/></seg>
+               <seg>gest, <rhyme label="b">best.</rhyme></seg>
+            </l>
+         </lg>             
+         <lg n="2" type="cinquain" met="-+(4/2/4/4/2)" rhyme="cddcd" org="uniform" sample="complete" part="N">                   
+            <l n="6" met="-+-+-+-+" real="-+-+-+-+">                     
+               <seg>My phan<sb/></seg>                     
+               <seg>tom<sb/>-foot<sb/></seg>                     
+               <seg>ed shape </seg>                     
+               <seg>will <rhyme label="c">go</rhyme></seg>                 
+            </l>
+            <l n="7" met="-+-+" real="-+-+">                     
+               <seg>When night<sb/></seg>                     
+               <seg>fall <rhyme label="d">grays</rhyme></seg>                                     
+            </l>
+            <l n="8" met="-+-+-+-+" real="+--+--+-+">                     
+               <seg met="-+" real="+-">Hi<sb/>ther </seg>                     
+               <seg>and thi<sb/></seg>                     
+               <seg met="-+" real="--+">ther a<sb/>long </seg>                     
+               <seg>the <rhyme label="d">ways</rhyme></seg>                 
+            </l>
+            <l n="9" met="-+-+-+-+" real="+--+-+-+">                     
+               <seg met="-+" real="+-" part="N">I and </seg>                     
+               <seg>a<sb/>noth<sb/></seg>                     
+               <seg>er used </seg>
+               <seg>to <rhyme label="c">know</rhyme></seg>
+            </l>   
+            <l n="10" met="-+-+" real="-+-+">                     
+               <seg>In back<sb/></seg>                     
+               <seg>ward <rhyme label="d">days.</rhyme></seg>                                  
+            </l>            
+         </lg>             
+         <lg n="3" type="cinquain" met="-+(4/2/4/4/2)" rhyme="effef" org="uniform" sample="complete" part="N">                 
+            <l n="11" met="-+-+-+-+" real="-+-+-+-+" part="N">                     
+               <seg>And there </seg>                     
+               <seg>you'll find </seg>                     
+               <seg>me, if </seg>
+               <seg>a <rhyme label="e">jot</rhyme></seg>
+            </l>
+            <l n="12" met="-+-+" real="-+-+" part="N">                     
+               <seg>You still </seg>                     
+               <seg>should <rhyme label="f">care</rhyme></seg>                                     
+            </l>
+            <l n="13" met="-+-+-+-+" real="-+-+-+--+" part="N">                     
+               <seg>For me, </seg>                     
+               <seg>and for </seg>                     
+               <seg>my cur<sb/></seg>
+               <seg>i<sb/>ous <rhyme label="f">air;</rhyme></seg>
+            </l> 
+            <l n="14" met="-+-+-+-+" real="-+-+-+-+" part="N">
+               <seg>If o<sb/></seg>
+               <seg>ther<sb/>wise, </seg>
+               <seg>then I </seg>
+               <seg>shall <rhyme label="e">not,</rhyme></seg>
+            </l> 
+            <l n="15" met="-+-+" real="-+++|-+-+" part="N">
+               <seg>For you, </seg>
+               <seg met="-+" real="++">be <rhyme label="f">there.</rhyme></seg>
+               <note anchored="true"> The iambic matter-of-factness that has made the fully enjambed, totally unpunctuated second stanza so remarkably placid would seem to call for a forthright iambic scansion here in the last line too. Not just rhyme but also the poem’s focus on questions of place justify stress on “there.” But it’s the subversive genius of this poem to raise as well, at the next-to-last minute, the more basic question of being, by raising the pitch of the voice as it reads “be.”  This little turn of phrase calls out the premise of postmortem existence on which the entire thought experiment is grounded.  If you no longer care about me after I’m gone, then I’ll no longer “be.” At least not for you I won’t. And whose loss will that be?
+               </note>
+            </l>
+         </lg>           
+      </body>         
+   </text>       
+</TEI>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE TEI SYSTEM "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Elegy</title>
+                <author>W. S. Merwin</author>
+            </titleStmt>
+            <publicationStmt><date>19xx</date></publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" met="-+(3)">
+                <l n="1" met="-+-+-+" real="+--+-+">
+                    <seg met="-+" real="+-">Who would </seg>
+                    <seg met="-+">I show </seg>
+                    <seg met="-+">it to </seg>
+                                      
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>
+

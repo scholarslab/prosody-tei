@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">   
+   <teiHeader type="text">    
+      <fileDesc>    
+         <titleStmt>         
+            <title>Sonnets from the Portuguese #7</title>         
+            <author>Elizabeth Barrett Browning</author>    
+         </titleStmt>        
+         <publicationStmt>       
+            <date>1850</date>      
+         </publicationStmt>        
+         <sourceDesc default="false"><p/>    
+         </sourceDesc>                      
+      </fileDesc>   
+   </teiHeader>  
+   <text>    
+      <body>   
+         <lg n="1" type="stanza" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="abbaabbacdcdcd" org="uniform" sample="complete" part="N">     
+            <l n="1" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">   
+               <seg>The face </seg>          
+               <seg>of all </seg>            
+               <seg>the world </seg>           
+               <seg>is changed, </seg>         
+               <seg>I <rhyme label="a">think,</rhyme></seg>       
+            </l>      
+            <l n="2" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">          
+               <seg>Since first </seg>            
+               <seg>I heard </seg>     
+               <seg>the foot<sb/></seg>    
+               <seg>steps of </seg>        
+               <seg>thy <rhyme label="b">soul</rhyme></seg>     
+            </l>       
+            <l n="3" met="-+-+-+-+-+" real="++++-+---+" part="N">     
+               <seg met="-+" real="++" part="N">Move still, </seg>   
+               <seg met="-+" real="++" part="N">oh, still, </seg>    
+               <seg>b<sb/>eside </seg>            
+               <seg met="-+" real="--" part="N">me, as </seg>        
+               <seg>they <rhyme label="b">stole</rhyme></seg>         
+            </l>      
+            <l n="4" met="-+-+-+-+-+" real="-++--+-+-+" part="N">   
+               <seg>Be<sb/>twixt </seg>    
+               <seg met="-+" real="+-" part="N">me and </seg>   
+               <seg>the dread<sb/></seg>           
+               <seg>ful out<sb/></seg>             
+               <seg>er <rhyme label="a">brink</rhyme></seg>      
+            </l>         
+            <l n="5" met="-+-+-+-+-+" real="-+--+-+-+-+" part="N">           
+               <seg>Of ob<sb/></seg>        
+               <seg met="-+" real="--+" part="N">vi<sb/>ous death, </seg>      
+               <seg>where I, </seg>          
+               <seg>who thought </seg>         
+               <seg>to <rhyme label="a">sink,</rhyme></seg>   
+            </l>           
+            <l n="6" met="-+-+-+-+-+" real="-++--+-+-+" part="N">       
+               <seg>Was caught </seg>        
+               <seg met="-+" real="+-" part="N">up in<sb/></seg>         
+               <seg>to love, </seg>        
+               <seg>and taught </seg>      
+               <seg>the <rhyme label="b"></rhyme>whole</seg>   
+            </l>      
+            <l n="7" met="-+-+-+-+-+" real="-+--++--+-+" part="N">    
+               <seg>Of life </seg>          
+               <seg met="-+" real="--" part="N">in a </seg> 
+               <seg met="-+" real="++" part="N">new rhyth<sb/></seg>       
+               <seg met="-+" real="--+">m. The cup </seg>             
+               <seg>of <rhyme label="b">dole</rhyme></seg>            
+            </l>          
+            <l n="8" met="-+-+-+-+-+" real="++-+--+-+-+" part="N"> 
+               <seg met="-+" real="++" part="N">God gave </seg>   
+               <seg>for bap<sb/></seg>            
+               <seg>tis<sb/>m, I </seg>           
+               <seg>am fain </seg>                
+               <seg>to <rhyme label="a">drink,</rhyme></seg>      
+            </l>      
+            <l n="9" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">    
+               <seg>And praise </seg>            
+               <seg>its sweet<sb/></seg>         
+               <seg>ness, Sweet, </seg>          
+               <seg>with thee </seg>             
+               <seg>a<sb/><rhyme label="c">near.</rhyme></seg>     
+            </l>     
+            <l n="10" met="-+-+-+-+-+" real="-+-+-+--+-+" part="N">  
+               <seg>The names </seg>             
+               <seg>of coun<sb/></seg>           
+               <seg>try, heav<sb/></seg>         
+               <seg met="-+" real="--+" part="N">en, are changed </seg>     
+               <seg>a<sb/><rhyme label="d">way</rhyme></seg> 
+            </l>        
+            <l n="11" met="-+-+-+-+-+" real="--++-+-+-+" part="N">      
+               <seg met="-+" real="--" part="N">For where </seg>        
+               <seg met="-+" real="++" part="N">thou art <sb/></seg>    
+               <seg>or shalt </seg>            
+               <seg>be, there </seg>           
+               <seg>or <rhyme label="c">here;</rhyme></seg>      
+            </l>        
+            <l n="12" met="-+-+-+-+-+" real="-+-+-+++-+" part="N">        
+               <seg>And this... </seg>        
+               <seg>this lute </seg>          
+               <seg>and song... </seg>          
+               <seg met="-+" real="++" part="N">loved yes<sb/></seg>    
+               <seg>ter<sb/><rhyme label="d">day,</rhyme></seg>         
+            </l>            
+            <l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">     
+               <seg>(The sing<sb/></seg>                
+               <seg>ing ang<sb/></seg>               
+               <seg>els know) </seg>                
+               <seg>are on<sb/></seg>                
+               <seg>ly <rhyme label="c">dear,</rhyme></seg>         
+            </l>           
+            <l n="14" met="-+-+-+-+-+" real="-+-+-+-+-+|-+-+++-+-+|--++-+-+-+" part="N">   
+               <seg>Be<sb/>cause </seg>        
+               <seg>thy name </seg>            
+               <seg>moves right </seg>         
+               <seg>in what </seg>             
+               <seg>they <rhyme label="d">say.</rhyme></seg>   
+               <note anchored="true"> There are good reasons to stress “thy” or “moves,” or indeed both those syllables.  But 4B4V prefers the way a straight iambic scansion confers serene rectitude at last on the often struggling versification of a poem that has been all about “footsteps” and has rendered emotion according to the motion of “a new rhythm” that plays not only against meter but also against an unusually strong handling of the caesura.              
+               </note>          
+            </l>         
+         </lg>      
+      </body>   
+   </text> 
+</TEI>

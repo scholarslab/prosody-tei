@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">    
+   <teiHeader type="text">      
+      <fileDesc>        
+         <titleStmt>     
+            <title>Dulness’ Apocalypse (The Dunciad 4.627-56)</title>        
+            <author>Alexander Pope</author>     
+         </titleStmt>        
+         <publicationStmt>     
+            <date>1742</date>    
+         </publicationStmt>     
+         <sourceDesc default="false"><p/> 
+         </sourceDesc>                  
+      </fileDesc>  
+   </teiHeader>  
+   <text>     
+      <body>    
+         <lg n="1" type="stanza" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="aabbcc" org="uniform" sample="complete" part="N">     
+            <l n="1" met="-+-+-+-+-+-" real="-+-+-+-+-+-" part="N">      
+               <seg>In vain, </seg>        
+               <seg>in vain— </seg>           
+               <seg>the all<sb/></seg>        
+               <seg>-com<sb/>pos</seg>           
+               <seg>ing ho<sb/><rhyme label="a">ur</rhyme></seg>     
+            </l>       
+            <l n="2" met="-+-+-+-+-+-" real="-+-+-+-+-+-" part="N">   
+               <seg>Re<sb/>sist<sb/></seg>         
+               <seg>less falls; </seg>           
+               <seg>the Muse </seg>           
+               <seg>o<sb/>beys </seg>         
+               <seg>the pow<sb/><rhyme label="a">er.</rhyme></seg>  
+            </l>          
+            <l n="3" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">        
+               <seg>She comes! </seg>       
+               <seg>she comes! </seg>       
+               <seg>the sab<sb/></seg>      
+               <seg>le throne </seg>        
+               <seg>be<sb/><rhyme label="b">hold</rhyme></seg>  
+            </l>           
+            <l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">    
+               <seg>Of Night </seg>               
+               <seg>prim<sb/>ev<sb/></seg>        
+               <seg>al, and </seg>                
+               <seg>of Cha<sb/></seg>             
+               <seg>os <rhyme label="b">old!</rhyme></seg>      
+            </l>          
+            <l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">  
+               <seg>Be<sb/>fore </seg>              
+               <seg>her Fan<sb/></seg>              
+               <seg>cy's gild<sb/></seg>            
+               <seg>ed clouds </seg>                
+               <seg>de<sb/><rhyme label="c">cay,</rhyme></seg>         
+            </l>        
+            <l n="6" met="-+-+-+-+-+" real="-+-+--+-+-+" part="N"> 
+               <seg>And all </seg>            
+               <seg>its var<sb/></seg>        
+               <seg met="-+" real="--+" part="N">y<sb/>ing rain<sb/></seg>  
+               <seg>bows die </seg>           
+               <seg>a<sb/><rhyme label="c">way.</rhyme></seg>       
+            </l>           
+            <l n="7" met="-+-+-+-+-+-" real="++-+-+-+-+-|+--+-+-+-+-" part="N">      
+               <seg met="-+" real="++" part="N">Wit shoots </seg> 
+               <seg>in vain </seg>              
+               <seg>its mo<sb/></seg>           
+               <seg>men<sb/>tar<sb/></seg>      
+               <seg>y fi<sb/><rhyme label="d">res,</rhyme></seg>  
+            </l>          
+            <l n="8" met="-+-+-+-+-+-" real="-+--+-+-+-+-" part="N">       
+               <seg>The me<sb/></seg>         
+               <seg met="-+" real="--+" part="N">te<sb/>or drops, </seg>  
+               <seg>and in </seg>             
+               <seg>a flash </seg>            
+               <seg>ex<sb/>pi<sb/><rhyme label="d">res.</rhyme></seg>      
+            </l>      
+            <l n="9" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">       
+               <seg>As one </seg>             
+               <seg>by one, </seg>            
+               <seg>at dread </seg>           
+               <seg>Me<sb/>de<sb/></seg>      
+               <seg>a's <rhyme label="e">strain,</rhyme></seg>  
+            </l>            
+            <l n="10" met="-+-+-+-+-+" real="-+-++--+--+|-+-+-+-+--+" part="N">   
+               <seg>The sick'<sb/></seg>         
+               <seg>ning stars </seg>            
+               <seg met="-+" real="+-" part="N">fade off </seg>            
+               <seg>th' eth<sb/></seg>             
+               <seg met="-+" real="--+" part="N">er<sb/>eal <rhyme label="e">plain;</rhyme></seg>  
+               <note anchored="true"> Pope made this line queasy, as if infected by what plagues the stars, which is also what turns the poet’s stomach as he takes his dystopian survey of contemporary culture.  If you restore the syllables his two printed contractions elide, there are 13 of them jostling for 10 spaces: hence the cramped-up effect, which 4B4V accentuates with a mid-line trochee reinforcing the brassy long-a assonance of “fade” with “plain” (which an iamb in that place, while permissible, forfeits).              
+               </note>         
+            </l>          
+            <l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">     
+               <seg>As Ar<sb/></seg>             
+               <seg>gus' eyes, </seg>            
+               <seg>by Her<sb/></seg>            
+               <seg>mes' wand </seg>             
+               <seg>op<sb/><rhyme label="f">prest,</rhyme></seg>    
+            </l>      
+            <l n="12" met="-+-+-+-+-+" real="++-+-+-+-+" part="N">       
+               <seg met="-+" real="++" part="N">Closed one </seg>       
+               <seg>by one </seg>        
+               <seg>to e<sb/></seg>      
+               <seg>ver<sb/>last<sb/></seg>      
+               <seg>ing <rhyme label="f">rest;</rhyme></seg>        
+            </l>            
+            <l n="13" met="-+-+-+-+-+" real="+--+-+-+-+" part="N">    
+               <seg met="-+" real="+-" part="N">Thus at </seg>        
+               <seg>her felt </seg>       
+               <seg>a<sb/>pproach, </seg>  
+               <seg>and se<sb/></seg>       
+               <seg>cret <rhyme label="g">might,</rhyme></seg>
+            </l>          
+            <l n="14" met="-+-+-+-+-+" real="+--+++-+-+" part="N">      
+               <seg met="-+" real="+-" part="N">Art af<sb/></seg>       
+               <seg>ter Art </seg>        
+               <seg met="-+" real="++" part="N">goes out, </seg>         
+               <seg>and all </seg>             
+               <seg>is <rhyme label="g">night.</rhyme></seg>         
+            </l>           
+            <l n="15" met="-+-+-+-+-+" real="-+-+--++-+" part="N">       
+               <seg>See skulk<sb/></seg>          
+               <seg>ing Truth </seg>              
+               <seg met="-+" real="--" part="N">to her </seg>  
+               <seg met="-+" real="++" part="N">old ca<sb/></seg>      
+               <seg>vern <rhyme label="h">fled,</rhyme></seg>          
+            </l>      
+            <l n="16" met="-+-+-+-+-+" real="+--+--++-+" part="N">        
+               <seg met="-+" real="+-" part="N">Mount<sb/>ains </seg>      
+               <seg>of cas<sb/></seg>               
+               <seg met="-+" real="--" part="N">uis<sb/>try </seg>       
+               <seg met="-+" real="++" part="N">heap'd o'er </seg>   
+               <seg>her <rhyme label="h">head!</rhyme></seg>         
+            </l>         
+            <l n="17" met="-+-+-+-+-+" real="-+-+-+-+--+" part="N">        
+               <seg>Phil<sb/>os<sb/></seg>         
+               <seg>o<sb/>phy, </seg>               
+               <seg>that lean'd </seg>              
+               <seg>on Hea<sb/></seg>               
+               <seg met="-+" real="--+" part="N">ven be<sb/><rhyme label="i">fore,</rhyme></seg>      
+            </l>        
+            <l n="18" met="-+-+-+-+-+" real="+--+-+-+++|+--+-+-+-+" part="N">  
+               <seg met="-+" real="+-" part="N">Shrinks to </seg>              
+               <seg>her sec<sb/></seg>               
+               <seg>ond cause, </seg>                
+               <seg>and is </seg>               
+               <seg met="-+" real="++" part="N">no <rhyme label="i">more.</rhyme></seg>          
+            </l>         
+            <l n="19" met="-+-+-+-+-+" real="+--+-+-+-+" part="N">      
+               <seg met="-+" real="+-" part="N">Phys<sb/>ic </seg>  
+               <seg>of Met<sb/></seg>            
+               <seg>a<sb/>phys<sb/></seg>                
+               <seg>ic begs </seg>               
+               <seg>de<sb/><rhyme label="j">fence,</rhyme></seg>      
+            </l>          
+            <l n="20" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">  
+               <seg>And Met<sb/></seg>             
+               <seg>a<sb/>phys<sb/></seg>          
+               <seg>ic calls </seg>                
+               <seg>for aid </seg>              
+               <seg>on <rhyme label="j">Sense!</rhyme></seg>  
+            </l>       
+            <l n="21" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">      
+               <seg>See Mys<sb/></seg>               
+               <seg>ter<sb/>y  </seg>                
+               <seg>to Math<sb/></seg>               
+               <seg>e<sb/>mat<sb/></seg>             
+               <seg>ics <rhyme label="k">fly!</rhyme></seg>       
+            </l>    
+            <l n="22" met="-+-+-+-+-+" real="-+-+++-+-+" part="N">        
+               <seg>In vain! </seg>             
+               <seg>they gaze, </seg>           
+               <seg met="-+" real="++" part="N">turn gidd<sb/></seg>   
+               <seg>y, rave, </seg>              
+               <seg>and <rhyme label="k">die.</rhyme></seg>      
+            </l>          
+            <l n="23" met="-+-+-+-+-+-" real="-+-+-+-+-+-" part="N">      
+               <seg>Rel<sb/>ig<sb/></seg>          
+               <seg>ion blush<sb/></seg>           
+               <seg>ing veils </seg>               
+               <seg>her sa<sb/></seg>              
+               <seg>cred fi<sb/><rhyme label="l">res,</rhyme></seg>       
+            </l>           
+            <l n="24" met="-+-+-+-+-+-" real="-+-+-+-+-+-" part="N">    
+               <seg>And un<sb/></seg>             
+               <seg>a<sb/>wares </seg>            
+               <seg>Mor<sb/>al<sb/></seg>         
+               <seg>i<sb/>ty </seg>               
+               <seg>ex<sb/>pi<sb/><rhyme label="l">res.</rhyme></seg>  
+            </l>         
+            <l n="25" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">          
+               <seg>Nor pu<sb/></seg>             
+               <seg>blic flame, </seg>            
+               <seg>nor pri<sb/></seg>            
+               <seg>vate, dares </seg>               
+               <seg>to <rhyme label="m">shine;</rhyme></seg>     
+            </l>          
+            <l n="26" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">            
+               <seg>Nor hu<sb/></seg>              
+               <seg>man spark </seg>               
+               <seg>is left, </seg>                
+               <seg>nor glimpse </seg>             
+               <seg>di<sb/><rhyme label="m">vine!</rhyme></seg>    
+            </l>     
+            <l n="27" met="-+-+-+-+" real="+-++--+---+|+-++--+-+-+" part="N">    
+               <seg met="-+" real="+-" part="N">Lo! thy </seg>        
+               <seg met="-+" real="++" part="N">dread em<sb/></seg>   
+               <seg met="-+" real="--+" part="N">pi<sb/>re Cha<sb/></seg>  
+               <seg met="-+" real="--" part="N">os! is </seg>     
+               <seg>re<sb/><rhyme label="n">stor'd;</rhyme></seg> 
+               <note anchored="true"> The double caesura of this line, which introduces the truly awesome finale to Pope’s no longer mock epic, reminds us how skillfully his management of the intra-line pause has varied a verse form that, with its steady pentameter and chiefly end-stopped couplet rhyming, would otherwise incur monotony – a.k.a. Dulness, which of course is the poem’s malignant, triumphant villain.</note>             
+            </l>            
+            <l n="28" met="-+-+-+-+-+" real="++-+-+-+-+" part="N">        
+               <seg met="-+" real="++" part="N">Light dies </seg>         
+               <seg>be<sb/>fore </seg>            
+               <seg>thy un<sb/></seg>             
+               <seg>cre<sb/>at<sb/></seg>         
+               <seg>ing <rhyme label="n">word:</rhyme></seg>           
+            </l>     
+            <l n="29" met="-+-+-+-+-+" real="-+++-+-+-+" part="N">   
+               <seg>Thy hand, </seg>    
+               <seg met="-+" real="++" part="N">great An<sb/></seg>  
+               <seg>arch! lets </seg>             
+               <seg>the cur<sb/></seg>            
+               <seg>tain <rhyme label="o">fall;</rhyme></seg>      
+            </l>          
+            <l n="30" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">        
+               <seg>And un<sb/></seg>           
+               <seg>i<sb/>ver<sb/></seg>              
+               <seg>sal Dark<sb/></seg>               
+               <seg>ness bur<sb/></seg>               
+               <seg>ies <rhyme label="o">all.</rhyme></seg>       
+            </l>            
+         </lg>    
+      </body>    
+   </text> 
+</TEI>

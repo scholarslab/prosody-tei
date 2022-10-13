@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+   <teiHeader type="text">    
+      <fileDesc>     
+         <titleStmt>     
+            <title>On the Death of Dr. Robert Levet</title>       
+            <author>Samuel Johnson</author>   
+         </titleStmt>         
+         <publicationStmt>      
+            <date>1783</date>   
+         </publicationStmt>      
+         <sourceDesc default="false"><p/>  
+         </sourceDesc>                    
+      </fileDesc> 
+   </teiHeader>  
+   <text>     
+      <body>    
+         <lg n="1" type="quatrain" met="-+(4/4/4/4/)" rhyme="abab" org="uniform" sample="complete" part="N">   
+            <l n="1" met="-+-+-+-+" real="-+-+-+-+" part="N">         
+               <seg>Con<sb/>demned </seg>          
+               <seg>to Hope's </seg>             
+               <seg>de<sb/>lus<sb/></seg>        
+               <seg>ive <rhyme label="a">mine,</rhyme></seg>     
+            </l>          
+            <l n="2" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">           
+               <seg>As on </seg>               
+               <seg>we toil </seg>             
+               <seg>from day </seg>         
+               <seg>to <rhyme label="b">day,</rhyme></seg>           
+            </l>          
+            <l n="3" met="-+-+-+-+" real="-+-+-+-+" part="N">         
+               <seg>By sud<sb/></seg>              
+               <seg>den blasts, </seg>             
+               <seg>or slow </seg>                
+               <seg>de<sb/><rhyme label="a">cline,</rhyme></seg>        
+            </l>          
+            <l n="4" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">        
+               <seg>Our soc<sb/></seg>             
+               <seg>ial com<sb/></seg>            
+               <seg>forts drop </seg>             
+               <seg>a<sb/><rhyme label="b">way.</rhyme></seg>   
+            </l>      
+         </lg>        
+         <lg n="2" type="quatrain" met="-+(4/4/4/4)" rhyme="abab" org="uniform" sample="complete" part="N">   
+            <l n="5" met="-+-+-+-+" real="++-+--+--+" part="N">         
+               <seg met="-+" real="++" part="N">Well tried </seg>       
+               <seg>through man<sb/></seg>             
+               <seg>y a var<sb/></seg>              
+               <seg>y<sb/>ing <rhyme label="a">year,</rhyme></seg>          
+            </l>      
+            <l n="6" met="-+-+-+-+" real="-+-+-+-+|++-+-+-+" rend="indent" part="N">      
+               <seg>See Lev<sb/></seg>            
+               <seg>et to </seg>             
+               <seg>the grave </seg>            
+               <seg>de<sb/><rhyme label="b">scend;</rhyme></seg>        
+            </l>     
+            <l n="7" met="-+-+-+-+" real="-+-+-+-+" part="N">    
+               <seg>O<sb/>ffic<sb/></seg>    
+               <seg>ious, inn<sb/></seg>          
+               <seg>o<sb/>cent, </seg>            
+               <seg>sin<sb/><rhyme label="a">cere,</rhyme></seg>      
+            </l>          
+            <l n="8" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">         
+               <seg>Of ev<sb/></seg>        
+               <seg>ery friend<sb/></seg>   
+               <seg>less name </seg>        
+               <seg>the <rhyme label="b">friend.</rhyme></seg> 
+            </l>       
+         </lg>         
+         <lg n="3" type="quatrain" met="-+(4/4/4/4)" rhyme="abab" org="uniform" sample="complete" part="N">             
+            <l n="9" met="-+-+-+-+" real="-+-+-+-+" part="N">         
+               <seg>Yet still </seg>            
+               <seg>he fills </seg>             
+               <seg>A<sb/>ffec<sb/></seg>       
+               <seg>tion's <rhyme label="a">eye,</rhyme></seg>        
+            </l>           
+            <l n="10" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">     
+               <seg>Ob<sb/>scure<sb/></seg>              
+               <seg>ly wise, </seg>              
+               <seg>and coarse<sb/></seg>          
+               <seg>ly <rhyme label="b">kind;</rhyme></seg>      
+            </l>       
+            <l n="11" met="-+-+-+-+" real="++-+-+-+" part="N">         
+               <seg met="-+" real="++" part="N">Nor, lett<sb/></seg>   
+               <seg>ered Arr<sb/></seg>             
+               <seg>o<sb/>gance, </seg>             
+               <seg>de<sb/><rhyme label="a">ny</rhyme></seg>       
+            </l>         
+            <l n="12" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">     
+               <seg>Thy praise </seg>           
+               <seg>to mer<sb/></seg>           
+               <seg>it un<sb/></seg>            
+               <seg>re<sb/><rhyme label="b">fined.</rhyme></seg>  
+            </l>        
+         </lg>       
+         <lg  n="4" type="quatrain" met="-+(4/4/4/4)" rhyme="abab" org="uniform" sample="complete" part="N">  
+            <l n="13" met="-+-+-+-+" real="-+-+-+-+" part="N">        
+               <seg>When faint<sb/></seg>              
+               <seg>ing Na<sb/></seg>                
+               <seg>ture called </seg>               
+               <seg>for <rhyme label="a">aid,</rhyme></seg>      
+            </l>          
+            <l n="14" met="-+-+-+-+" real="-+--+-+-+" rend="indent" part="N">       
+               <seg>And hov<sb/></seg>            
+               <seg met="-+" real="--+" part="N">er<sb/>ing Death </seg>         
+               <seg>pre<sb/>pared </seg>           
+               <seg>the <rhyme label="b">blow,</rhyme></seg>           
+            </l>            
+            <l n="15" met="-+-+-+-+" real="-+--+-+-+" part="N">           
+               <seg>His vig<sb/></seg>              
+               <seg met="-+" real="--+" part="N">or<sb/>ous rem<sb/></seg>         
+               <seg>e<sb/>dy </seg>              
+               <seg>dis<sb/><rhyme label="a">played</rhyme></seg>          
+            </l>            
+            <l n="16" met="-+-+-+-+" real="-+--+-+-+" rend="indent" part="N">   
+               <seg>The pow<sb/></seg>              
+               <seg met="-+" real="--+" part="N">er of art </seg>   
+               <seg>with<sb/>out </seg>               
+               <seg>the <rhyme label="b">show.</rhyme></seg>             
+            </l>         
+         </lg>          
+         <lg  n="5" type="quatrain" met="-+(4/4/4/4)" rhyme="abab" org="uniform" sample="complete" part="N">    
+            <l n="17" met="-+-+-+-+" real="-+--+-+-+" part="N">            
+               <seg>In Mis<sb/></seg>              
+               <seg>er<sb/>y's dark<sb/></seg>         
+               <seg>est cav<sb/></seg>                
+               <seg>ern <rhyme label="a">known,</rhyme></seg>         
+            </l>           
+            <l n="18" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">       
+               <seg>His use<sb/></seg>           
+               <seg>ful care </seg>              
+               <seg>was ev<sb/></seg>            
+               <seg>er <rhyme label="b">nigh,</rhyme></seg>   
+            </l>           
+            <l n="19" met="-+-+-+-+" real="-+-+-+-+" part="N">      
+               <seg>Where hope<sb/></seg>           
+               <seg>less Ang<sb/></seg>             
+               <seg>uish poured </seg>              
+               <seg>his <rhyme label="a">groan,</rhyme></seg>       
+            </l>           
+            <l n="20" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">       
+               <seg>And lone<sb/></seg>             
+               <seg>ly Want </seg>              
+               <seg>re<sb/>tired </seg>         
+               <seg>to <rhyme label="b">die.</rhyme></seg>     
+            </l>    
+         </lg>       
+         <lg  n="6" type="quatrain" met="-+(4/4/4/4)" rhyme="abab" org="uniform" sample="complete" part="N">   
+            <l n="21" met="-+-+-+-+" real="++-+-+-+" part="N"> 
+               <seg met="-+" real="++" part="N">No summ<sb/></seg>            
+               <seg>ons mocked </seg>      
+               <seg>by chill </seg>          
+               <seg>de<sb/><rhyme label="a">lay,</rhyme></seg>          
+            </l>       
+            <l n="22" met="-+-+-+-+" real="++-+-+-+" rend="indent" part="N">            
+               <seg met="-+" real="++" part="N">No pet<sb/></seg>         
+               <seg>ty gain </seg>            
+               <seg>dis<sb/>dained </seg>     
+               <seg>by <rhyme label="b">pride,</rhyme></seg>   
+            </l>           
+            <l n="23" met="-+-+-+-+" real="-+-+-+-+" part="N">        
+               <seg>The mod<sb/></seg>               
+               <seg>est wants </seg>               
+               <seg>of ev<sb/></seg>               
+               <seg>ery <rhyme label="a">day</rhyme></seg>     
+            </l>          
+            <l n="24" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">      
+               <seg>The toil </seg>        
+               <seg>of ev<sb/></seg>        
+               <seg>ery day </seg>          
+               <seg>su<sb/><rhyme label="b">pplied.</rhyme></seg>   
+            </l>        
+         </lg>          
+         <lg n="7" type="quatrain" met="-+(4/4/4/4)" rhyme="abab" org="uniform" sample="complete" part="N">    
+            <l n="25" met="-+-+-+-+" real="-+-+-+-+" part="N">   
+               <seg>His vir<sb/></seg>           
+               <seg>tues walked </seg>           
+               <seg>their narr<sb/></seg>        
+               <seg>ow <rhyme label="a">round,</rhyme></seg>        
+            </l>       
+            <l n="26" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">    
+               <seg>Nor made </seg>            
+               <seg>a pause, </seg>             
+               <seg>nor left </seg>             
+               <seg>a <rhyme label="b">void;</rhyme></seg>         
+            </l>            
+            <l n="27" met="-+-+-+-+" real="-+--+-+-+" part="N"> 
+               <seg>And sure </seg>  
+               <seg>the E<sb/>tern<sb/></seg>          
+               <seg>al Mast<sb/></seg>              
+               <seg>er <rhyme label="a">found</rhyme></seg>    
+            </l>         
+            <l n="28" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">    
+               <seg>The sin<sb/></seg>         
+               <seg>gle tal<sb/></seg>         
+               <seg>ent well </seg>            
+               <seg>em<sb/><rhyme label="b">ployed.</rhyme></seg>       
+            </l>    
+         </lg>      
+         <lg n="8" type="quatrain" met="-+(4/4/4/4)" rhyme="abab" org="uniform" sample="complete" part="N">    
+            <l n="29" met="-+-+-+-+" real="-+-+-+-+" part="N">              
+               <seg>The bus<sb/></seg>               
+               <seg>y day, </seg>             
+               <seg>the peace<sb/></seg>         
+               <seg>ful <rhyme label="a">night,</rhyme></seg>        
+            </l>          
+            <l n="30" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">      
+               <seg>Un<sb/>felt, </seg>            
+               <seg>un<sb/>count<sb/></seg>        
+               <seg>ed, glid<sb/></seg>            
+               <seg>ed <rhyme label="b">by;</rhyme></seg>    
+            </l>         
+            <l n="31" met="-+-+-+-+" real="-+-+-+--+" part="N">           
+               <seg>His frame </seg>          
+               <seg>was firm, </seg>          
+               <seg>his pow<sb/></seg>        
+               <seg met="-+" real="--+" part="N">ers were <rhyme label="a">bright,</rhyme></seg>       
+            </l>          
+            <l n="32" met="-+-+-+-+" real="-+-+--+-+" rend="indent" part="N">        
+               <seg>Though now </seg>      
+               <seg>his eight<sb/></seg>   
+               <seg met="-+" real="--+" part="N">i<sb/>eth year </seg>          
+               <seg>was <rhyme label="b">nigh.</rhyme></seg>          
+            </l>       
+         </lg>         
+         <lg n="9" type="quatrain" met="-+(4/4/4/4)" rhyme="abab" org="uniform" sample="complete" part="N">           
+            <l n="33" met="-+-+-+-+" real="+-++-+--+" part="N">        
+               <seg met="-+" real="+-" part="N">Then with </seg>       
+               <seg met="-+" real="++" part="N">no throbb</seg>        
+               <seg>ing fie<sb/></seg>        
+               <seg met="-+" real="--+" part="N">r<sb/>y <rhyme label="a">pain,</rhyme></seg>            
+               <note anchored="true"> For reasons that suit the “narrow round” of virtues this elegy praises, Johnson with notable regularity conforms the vocal pulse to the metrical norm.  Even the exceptions tend to cluster, establishing in lines 15-17 or 21-22 what we might consider new local norms.  Exception: line 33, where the poem makes its signal transition from commendation of a long life to thankfulness for a swift death, and a uniquely turbulent rhythm acknowledges what Dr. Levet has mercifully escaped.           
+               </note>           
+            </l>           
+            <l n="34" met="-+-+-+-+" real="++-+-+-+" rend="indent" part="N">              
+               <seg met="-+" real="++" part="N">No cold </seg>  
+               <seg>gra<sb/>da<sb/></seg>             
+               <seg>tions of </seg>              
+               <seg>de<sb/><rhyme label="b">cay,</rhyme></seg>        
+            </l>           
+            <l n="35" met="-+-+-+-+" real="++-+-+-+" part="N">     
+               <seg met="-+" real="++" part="N">Death broke </seg> 
+               <seg>at once </seg>                
+               <seg>the vit<sb/></seg>            
+               <seg>al <rhyme label="a">chain,</rhyme></seg>        
+            </l>        
+            <l n="36" met="-+-+-+-+" real="-+-+-+-+" rend="indent" part="N">      
+               <seg>And freed </seg>            
+               <seg>his soul </seg>             
+               <seg>the near<sb/></seg>         
+               <seg>est <rhyme label="b">way.</rhyme></seg>      
+            </l>     
+         </lg>       
+      </body>   
+   </text> 
+</TEI>

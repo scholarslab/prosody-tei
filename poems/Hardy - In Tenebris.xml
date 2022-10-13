@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">    
+   <teiHeader type="text">       
+      <fileDesc>          
+         <titleStmt>             
+            <title>In Tenebris</title>            
+            <author>Thomas Hardy</author>          
+         </titleStmt>          
+         <publicationStmt>            
+            <date>1901</date>         
+         </publicationStmt>        
+         <sourceDesc default="false"><p/>      
+         </sourceDesc>                          
+      </fileDesc>   
+   </teiHeader> 
+   <text>     
+      <body>     
+         <lg n="1" type="quatrain" met="-+(2/3/3/2)" rhyme="abba" org="uniform" sample="complete" part="N">         
+            <l n="1" met="-+-+" real="+--+" rend= "indent2" part="N">       
+               <seg met="-+" real="+-" part="N"> Win<sb/>ter</seg>     
+               <seg>time <rhyme label="a">nighs;</rhyme></seg>         
+            </l>           
+            <l n="2" met="-+-+-+" real="-+-+-+" part="N">              
+               <seg>But my </seg>         
+               <seg>be<sb/>reave</seg>          
+               <seg>ment<sb/><rhyme label="b">-pain</rhyme></seg>          
+            </l>            
+            <l n="3" met="-+-+-+" real="-+-+-+" part="N">            
+               <seg>It can<sb/></seg>          
+               <seg>not bring </seg>            
+               <seg>a<sb/><rhyme label="b">gain:</rhyme></seg>         
+            </l>           
+            <l n="4" met="-+-+" real="++-+" rend= "indent" part="N">       
+               <seg met="-+" real="++" part="N"> Twice no </seg>        
+               <seg>one <rhyme label="a">dies.</rhyme></seg>          
+            </l>      
+         </lg>       
+         <lg n="2" type="quatrain" met="-+(2/3/3/2)" rhyme="abba" org="uniform" sample="complete" part="N">  
+            <l n="5" met="-+-+" real="+---+" rend= "indent2" part="N">          
+               <seg met="-+" real="+-" part="N">Flo<sb/>wer</seg>       
+               <seg met="-+" real="--+" part="N">-pet<sb/>als <rhyme label="a">flee;</rhyme></seg>             
+               <note anchored="true"> This scansion is not quite so arbitrary as it looks. “Flower” may have been a monosyllable (even in Hardy’s r-                   rolling Wessex country), in which case the dimeter line would comprise a trochee then an iamb. But 4B4V honors                   every syllable it can, so a disyllable it is. Having conceded a trochaic “flower,” you may want to treat “petals” the                   same way. But that makes the line impossible to scan, within our system, as the dimeter it must be; besides, it                   forgets how the English language routinely accents compound nouns of this kind: “conjure-woman,” “boiler-                   maker,” “business-hours,” etc. heap stress on the first syllable and rattle off the rest as roughly equivalent slacks. </note>        
+            </l>        
+            <l n="6" met="-+-+-+" real="-+-+-+" part="N">      
+               <seg>But, since </seg>            
+               <seg>it once </seg>           
+               <seg>hath <rhyme label="b">been,</rhyme></seg>      
+            </l>          
+            <l n="7" met="-+-+-+" real="++-+--+|-+-+--+" part="N">       
+               <seg met="-+" real="++" part="N">No more </seg>           
+               <seg>that sev<sb/></seg>              
+               <seg met="-+" real="--+" part="N">er<sb/>ing <rhyme label="b">scene</rhyme></seg>        
+            </l>           
+            <l n="8" met="-+-+" real="-+-+" rend= "indent2" part="N">    
+               <seg>Can har<sb/></seg>         
+               <seg>row <rhyme label="a">me.</rhyme></seg>    
+            </l>         
+         </lg>       
+         <lg n="3" type="quatrain" met="-+(2/3/3/2)" rhyme="abba" org="uniform" sample="complete" part="N">    
+            <l n="9" met="-+-+" real="++-+" rend= "indent2" part="N">    
+               <seg met="-+" real="++" part="N">Birds faint </seg>        
+               <seg>in <rhyme label="a">dread:</rhyme></seg>      
+            </l>         
+            <l n="10" met="-+-+-+" real="+--+++" part="N">       
+               <seg met="-+" real="+-" part="N">I shall </seg>           
+               <seg>not lose </seg>          
+               <seg met="-+" real="++" part="N">old <rhyme label="b">strength</rhyme></seg>       
+               <note anchored="true"> Why not scan the first foot as an iamb? Because doing so would affirm the wrong thing. It would emphasize the                  speaker’s resolute will to resist adversity. The speaker’s grim burden here, though, is that such heroics are, for                  him, a thing of the past: just this is what makes him unique, and a stress on “I” makes that point tidily.</note>          
+            </l>       
+            <l n="11" met="-+-+-+" real="--++++" part="N">       
+               <seg met="-+" real="--" part="N">In the </seg>         
+               <seg met="-+" real="++" part="N">lone frost's </seg>       
+               <seg met="-+" real="++" part="N">black <rhyme label="b">length:</rhyme></seg>    
+            </l>            
+            <l n="12" met="-+-+" real="+--+" rend= "indent2" part="N">             
+               <seg met="-+" real="+-" part="N">Strength long </seg>      
+               <seg>since <rhyme label="a">fled!</rhyme></seg>           
+               <note anchored="true"> In another prosodic context this line admittedly might be a double spondee, i.e. four consecutive stressed                   syllables. But Hardy has just executed exactly that pattern at the end of the previous line, so plowing on into an                   eight-stress pileup would be a stunt both ludicrous and inappropriate to the sense of the stanza, which does not                   vaunt the speaker’s strength but instead concedes his frailty. </note>          
+            </l>         
+         </lg>         
+         <lg  n="4" type="quatrain" met="-+(2/3/3/2)" rhyme="abba" org="uniform" sample="complete" part="N">         
+            <l n="13" met="-+-+" real="++-+" rend= "indent2" part="N">         
+               <seg met="-+" real="++" part="N">Leaves freeze </seg>         
+               <seg>to <rhyme label="a">dun;</rhyme></seg>            
+            </l>          
+            <l n="14" met="-+-+-+" real="-+-+++" part="N">             
+               <seg>But friends </seg>               
+               <seg>can not </seg>             
+               <seg met="-+" real="++" part="N">turn <rhyme label="b">cold</rhyme></seg>         
+            </l>        
+            <l n="15" met="-+-+-+" real="++-+-+" part="N">           
+               <seg met="-+" real="++" part="N">This sea<sb/></seg>         
+               <seg>son as </seg>               
+               <seg>of <rhyme label="b">old</rhyme></seg>      
+            </l>          
+            <l n="16" met="-+-+" real="-+-+" rend= "indent2" part="N">          
+               <seg>For him </seg>               
+               <seg>with <rhyme label="a">none.</rhyme></seg>     
+            </l>    
+         </lg>         
+         <lg  n="5" type="quatrain" met="-+(2/3/3/2)" rhyme="abba" org="uniform" sample="complete" part="N">          
+            <l n="17" met="-+-+" real="+--+" rend= "indent2" part="N">          
+               <seg met="-+" real="+-" part="N">Temp<sb/>ests </seg>      
+               <seg>may <rhyme label="a">scath;</rhyme></seg>         
+            </l>          
+            <l n="18" met="-+-+-+" real="-+-+++" part="N">    
+               <seg>But love </seg>              
+               <seg>can not </seg>               
+               <seg met="-+" real="++" part="N">make <rhyme label="b">smart</rhyme></seg>      
+            </l>            
+            <l n="19" met="-+-+-+" real="-+++-+" part="N">     
+               <seg>A<sb/>gain </seg>               
+               <seg met="-+" real="++" part="N">this year </seg>        
+               <seg>his <rhyme label="b">heart</rhyme></seg>            
+            </l>           
+            <l n="20" met="-+-+" real="-+-+|-+++" rend= "indent2" part="N">      
+               <seg >Who no </seg>          
+               <seg met="-+" real="++" part="N">heart <rhyme label="a">hath.</rhyme></seg>      
+            </l>         
+         </lg>         
+         <lg  n="6" type="quatrain" met="-+(2/3/3/2)" rhyme="abba" org="uniform" sample="complete" part="N">           
+            <l n="21" met="-+-+" real="+-++" rend= "indent2" part="N">        
+               <seg met="-+" real="+-" part="N">Black is </seg>           
+               <seg met="-+" real="++" part="N">night's <rhyme label="a">cope;</rhyme></seg>     
+            </l>             
+            <l n="22" met="-+-+-+" real="-+-+-+" part="N">              
+               <seg>But death </seg>                
+               <seg>will not </seg>         
+               <seg>a<sb/><rhyme label="b">ppal</rhyme></seg>            
+            </l>             
+            <l n="23" met="-+-+-+" real="+-++-+" part="N">             
+               <seg met="-+" real="+-" part="N">One who, </seg>         
+               <seg met="-+" real="++" part="N">past doubt<sb/></seg>        
+               <seg>ings <rhyme label="b">all,</rhyme></seg>             
+            </l>               
+            <l n="24" met="-+-+" real="+-++|+--+" rend= "indent2" part="N">      
+               <seg met="-+" real="+-" part="N">Waits in </seg>             
+               <seg met="++" real="++" part="N">un<sb/><rhyme label="a">hope.</rhyme></seg>                 
+               <note anchored="true"> Nobody knows for sure how to scan “unhope,” a word Hardy scavenged out of 15th-century books for 20th-century                      service in his exuberant palette of glooms. Our rule about rhyme means the second syllable takes stress, and the                      word works out here as a simple iamb. But since the whole point of the word, nay the poem, is to cancel “hope,”                      there’s reason to stress the “un-" even harder and mutter the “-hope” as grudgingly as possible. Call it a front-loaded spondee. </note>                
+            </l>           
+            </lg>      
+      </body>   
+   </text>
+</TEI>

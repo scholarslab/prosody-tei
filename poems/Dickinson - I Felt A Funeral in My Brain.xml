@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">   
+   <teiHeader type="text">      
+      <fileDesc>        
+         <titleStmt>    
+            <title>I Felt a Funeral in My Brain</title>          
+            <author>Emily Dickinson</author>        
+         </titleStmt>         
+         <publicationStmt>      
+            <date>1861</date>   
+         </publicationStmt>     
+         <sourceDesc default="false"><p/>   
+         </sourceDesc>                   
+      </fileDesc>  
+   </teiHeader>  
+   <text>   
+      <body>   
+         <lg n="1" type="quatrain" met="-+(4/3/4/3)" rhyme="abxb" org="uniform" sample="complete" part="N">        
+            <l n="1" met="-+-+-+-+" real="-+-+-+-+" part="N">  
+               <seg>I felt </seg>            
+               <seg>a Fun<sb/></seg>        
+               <seg>eral, in </seg>      
+               <seg>my <rhyme label="a">Brain,</rhyme></seg>       
+            </l>  
+            <l n="2" met="-+-+-+" real="-+-+-+" part="N">        
+               <seg>And Mourn<sb/></seg>            
+               <seg>ers to </seg>         
+               <seg>and <rhyme label="b">fro</rhyme></seg>      
+            </l>         
+            <l n="3" met="-+-+-+-+" real="++-+-+-+|-+-+-+-+" part="N">      
+               <seg met="-+" real="++" part="N">Kept tread<sb/></seg>        
+               <seg>ing- tread<sb/></seg>           
+               <seg>ing- till </seg>             
+               <seg>it <rhyme label="x">seemed</rhyme></seg>        
+            </l>     
+            <l n="4" met="-+-+-+" real="-+-+-+" part="N">  
+               <seg>That Sense </seg>             
+               <seg>was break<sb/></seg>          
+               <seg>ing <rhyme label="b">through-</rhyme> </seg>    
+            </l>        
+         </lg>      
+         <lg n="2" type="quatrain" met="-+(3/3/4/3)" rhyme="abxb" org="uniform" sample="complete" part="N">             
+            <l n="5" met="-+-+-+" real="-+-+-+-" part="N">        
+               <seg>And when </seg>             
+               <seg>they all </seg>             
+               <seg met="-+" real="-+-">were seat<sb/><rhyme label="a">ed,</rhyme></seg>   
+               <note anchored="true"> This line contains only 3 stressed syllables. Yet every other odd-numbered line in the poem fulfills the tetrameter that is entailed by ballad meter, which is the prevalent pattern in Dickinson’s poems.  So 4B4V gives line 5 a special waiver as honorary tetrameter, inviting the reader to hear the omitted final stress as a prelusive first thump on the drum that will engross the stanza.               
+               </note>           
+            </l>           
+            <l n="6" met="-+-+-+" real="-+-+-+" part="N">        
+               <seg>A serv<sb/></seg>       
+               <seg>ice like </seg>             
+               <seg>a <rhyme label="b">Drum-</rhyme></seg>  
+            </l>       
+            <l n="7" met="-+-+-+-+" real="++-+-+-+|-+-+-+-+" part="N">         
+               <seg met="-+" real="++" part="N">Kept beat<sb/></seg>       
+               <seg>ing- beat<sb/></seg>           
+               <seg>ing- till </seg>        
+               <seg>I <rhyme label="x">thought</rhyme></seg>    
+            </l>       
+            <l n="8" met="-+-+-+" real="-+-+-+" part="N">    
+               <seg>My mind  </seg>          
+               <seg>was go<sb/></seg>        
+               <seg>ing <rhyme label="b">numb-</rhyme></seg>     
+            </l>        
+         </lg>        
+         <lg n="3" type="quatrain" met="-+(4/3/4/3)" rhyme="abxb" org="uniform" sample="complete" part="N">   
+            <l n="9" met="-+-+-+-+" real="-+-+-+-+" part="N">        
+               <seg>And then </seg>              
+               <seg>I heard </seg>               
+               <seg>them lift </seg>             
+               <seg>a <rhyme label="a">Box</rhyme></seg>    
+            </l>       
+            <l n="10" met="-+-+-+" real="-+-+-+" part="N">        
+               <seg>And creak </seg>           
+               <seg>a<sb/>cross </seg>         
+               <seg>my <rhyme label="b">Soul</rhyme></seg>        
+            </l>     
+            <l n="11" met="-+-+-+-+" real="--++-+-+" part="N">         
+               <seg met="-+" real="--" part="N">With those </seg>      
+               <seg met="-+" real="++" part="N">same Boots </seg>      
+               <seg>of Lead, </seg>              
+               <seg>a<sb/><rhyme label="x">gain,</rhyme></seg>          
+            </l>     
+            <l n="12" met="-+-+-+" real="-+-+-+" part="N">       
+               <seg>Then Space- </seg>       
+               <seg>be<sb/>gan </seg>        
+               <seg>to <rhyme label="b">toll,</rhyme></seg>   
+            </l>       
+         </lg>     
+         <lg n="4" type="quatrain" met="-+(4/3/4/3)" rhyme="abxb" org="uniform" sample="complete" part="N">         
+            <l n="13" met="-+-+-+-+" real="-+-+-+-+" part="N">         
+               <seg>As all </seg>            
+               <seg>the Hea<sb/></seg>       
+               <seg>vens were </seg>         
+               <seg>a <rhyme label="a">Bell,</rhyme></seg>        
+            </l>           
+            <l n="14" met="-+-+-+" real="-+-+-+" part="N">      
+               <seg>And Be<sb/></seg>              
+               <seg>ing, but </seg>                
+               <seg>an <rhyme label="b">Ear,</rhyme></seg>     
+            </l>         
+            <l n="15" met="-+-+-+-+" real="-+-+-+++" part="N">  
+               <seg>And I, </seg>              
+               <seg>and Si<sb/></seg>          
+               <seg>lence, some </seg>         
+               <seg met="-+" real="++" part="N">strange <rhyme label="x">Race,</rhyme></seg>   
+            </l>            
+            <l n="16" met="-+-+-+" real="++-+-+" part="N">             
+               <seg met="-+" real="++" part="N">Wrecked, sol<sb/></seg>      
+               <seg>i<sb/>tar<sb/></seg>               
+               <seg>y, <rhyme label="b">here-</rhyme></seg>    
+               <note anchored="true"> In this acoustically stricken lyric, the firm metrical discipline Dickinson imposes on rhythm turns up a pressure for which the caesura serves as escape valve.  4B4V scans every dash in this poem as a caesura; and it does the same with the commas here, as the pressure four stanzas have built up explodes into wreckage.  Yet even this catastrophe is not the end: the relapsing migraine of meter won’t quit until the caesurally estranged exit word “then,” like “here” in line 16, leaves the speaker more helplessly exposed than ever in enigmatic time and space.           
+               </note>            
+            </l>       
+         </lg>      
+         <lg n="5" type="quatrain" met="-+(4/3/4/3)" rhyme="abxb" org="uniform" sample="complete" part="N">    
+            <l n="17" met="-+-+-+-+" real="-+-+-+-+" part="N">   
+               <seg>And then </seg>             
+               <seg>a Plank </seg>              
+               <seg>in Rea<sb/></seg>           
+               <seg>son <rhyme label="a">broke,</rhyme></seg>       
+            </l>       
+            <l n="18" met="-+-+-+" real="--++-+|-+++-+" part="N">  
+               <seg met="-+" real="--" part="N">And I </seg>  
+               <seg met="-+" real="++" part="N">dropped down, </seg>        
+               <seg>and <rhyme label="b">down-</rhyme></seg>         
+            </l>         
+            <l n="19" met="-+-+-+-+" real="-+-+-+-+" part="N">  
+               <seg>And hit </seg>             
+               <seg>a World, </seg>            
+               <seg>at ev<sb/></seg>           
+               <seg>ery <rhyme label="x">plunge,</rhyme></seg>     
+            </l>        
+            <l n="20" met="-+-+-+" real="-+-+-+" part="N">      
+               <seg>And Fin<sb/></seg>           
+               <seg>ished know<sb/></seg>        
+               <seg>ing- <rhyme label="b">then-</rhyme></seg>      
+            </l>        
+         </lg>       
+      </body>  
+   </text>
+</TEI>

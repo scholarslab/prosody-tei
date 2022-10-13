@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:8080/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
+    version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Eternity</title>
+                <author>William Blake</author>
+            </titleStmt>
+            <publicationStmt>
+                <date>Before 1818</date>
+            </publicationStmt>
+            <sourceDesc default="false">
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg n="1" met="-+(4/4/4/4)" rhyme="aabb" org="uniform" sample="complete" part="N">
+                <l n="1" met="-+-+-+-+" real="+-+--+-+">
+                    <seg met="-+" real="+-" part="N">He who </seg>
+                    <seg met="-+" real="+-" part="N">binds to </seg>
+                    <seg met="-+" real="-+" part="N">him<sb/>self </seg>
+                    <seg met="-+" real="-+" part="N">a <rhyme label="a">joy</rhyme></seg>
+                </l>
+                <l n="2" met="-+-+-+-+" real="+-+-+-+">
+                    <seg met="-+" real="+" part="N">Doth </seg>
+                    <seg met="-+" real="-+" part="N">the win<sb/></seg>
+                    <seg met="-+" real="-+" part="N">ged life </seg>
+                    <seg met="-+" real="-+" part="N">des<sb/><rhyme label="a">troy,</rhyme></seg>
+                </l>
+                <l n="3" met="-+-+-+-+" real="-+-+--+--+">
+                    <seg met="-+" real="-+" part="N">But he </seg>
+                    <seg met="-+" real="-+" part="N">who kis<sb/></seg>
+                    <seg met="-+" real="--+" part="N">ses the joy </seg>
+                    <seg met="-+" real="--+" part="N">as it <rhyme label="b">flies</rhyme></seg>
+                </l>
+                <l n="4" met="-+-+-+-+" real="+--+-+++">
+                    <seg met="-+" real="+-" part="N">Lives in </seg>
+                    <seg met="-+" real="-+" part="N">E<sb/>ter<sb/></seg>
+                    <seg met="-+" real="-+" part="N">ni<sb/>ty's </seg>
+                    <seg met="-+" real="++" part="N">sun <rhyme label="b">rise.</rhyme></seg>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

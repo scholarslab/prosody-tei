@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">    
+   <teiHeader type="text">          
+      <fileDesc>          
+         <titleStmt>                                
+            <title>She Dwelt Among the Untrodden Ways</title>             
+            <author>William Wordsworth</author>                      
+         </titleStmt>                      
+         <publicationStmt>         
+            <date>1800</date>        
+         </publicationStmt>             
+         <sourceDesc default="false"><p/></sourceDesc>      
+      </fileDesc>     
+   </teiHeader>       
+   <text>            
+      <body>         
+         <lg n="1" type="quatrain" met="-+(4/3/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">          
+            <l n="1" met="-+-+-+-+" real="-+-+--+-+-">                      
+               <seg met="-+">She dwelt </seg>                               
+               <seg met="-+">a<sb/>mong </seg>                            
+               <seg met="-+" real="--+"> the un<sb/>trod<sb/></seg>             
+               <seg met="-+" real="+-">den <rhyme label="a">ways,</rhyme></seg>    
+            </l>            
+            <l n="2" met="-+-+-+" real="-+-+-+" rend="indent">            
+               <seg met="-+">Be<sb/>side </seg>             
+               <seg met="-+">the springs </seg>              
+               <seg met="-+">of <rhyme label="b">Dove,</rhyme></seg>    
+            </l>            
+            <l n="3" met="-+-+-+-+" real="-+-+-+-+">      
+               <seg met="-+">A maid </seg>                
+               <seg met="-+">whom there </seg>            
+               <seg met="-+">were none </seg>             
+               <seg met="-+">to <rhyme label="a">praise,</rhyme></seg>       
+            </l>          
+            <l n="4" met="-+-+-+" real="-+-+-+" rend="indent">          
+               <seg met="-+">And ver</seg>                
+               <seg met="-+">y few </seg>                 
+               <seg met="-+">to <sb/><rhyme label="b">love.</rhyme></seg>      
+            </l>                 
+         </lg>                     
+         <lg n="2" type="quatrain" met="-+(4/3/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">    
+            <l n="5" met="-+-+-+-+" real="-+-+-+-+">                  
+               <seg met="-+">A vio<sb/></seg>                         
+               <seg met="-+">let by <sb/></seg>                       
+               <seg met="-+"> a moss<sb/></seg>                       
+               <seg met="-+">y <sb/><rhyme label="a">stone</rhyme></seg>      
+            </l>            
+            <l n="6" met="-+-+-+" real="++-+-+" rend="indent">             
+               <seg met="-+" real="++">Half hid<sb/></seg>   
+               <seg met="-+">den from <sb/></seg>            
+               <seg met="-+">the <rhyme label="b">eye!</rhyme></seg>  
+            </l>            
+            <l n="7" met="-+-+-+-+" real="+--+-+-+">     
+               <seg met="-+" real="+-">—Fair as <sb/></seg>         
+               <seg met="-+"> a star, <sb/></seg>                   
+               <seg met="-+">when on<sb/></seg>                     
+               <seg met="-+">ly <rhyme label="a">one</rhyme></seg>  
+            </l>           
+            <l n="8" met="-+-+-+" real="-+-+-+" rend="indent">    
+               <seg met="-+">Is shin<sb/></seg>     
+               <seg met="-+">ing in <sb/></seg>     
+               <seg met="-+">the <rhyme label="b">sky.</rhyme></seg>          
+            </l>                    
+         </lg>                
+         <lg n="3" type="quatrain" met="-+(4/3/4/3)" rhyme="abab" org="uniform" sample="complete" part="N">  
+            <l n="9" met="-+-+-+-+" real="-+-+-+-+">                    
+               <seg met="-+">She lived <sb/></seg>                      
+               <seg met="-+">un<sb/>known, </seg><caesura/>    
+               <seg met="-+">and few <sb/></seg>          
+               <seg met="-+">could <rhyme label="a">know</rhyme></seg>    
+            </l>             
+            <l n="10" met="-+-+-+" real="-+-+-+" rend="indent">          
+               <seg met="-+">When Lu<sb/></seg>            
+               <seg met="-+">cy ceased <sb/></seg>         
+               <seg met="-+">to <rhyme label="b">be;</rhyme></seg>       
+            </l>    
+            <l n="11" met="-+-+-+-+" real="-+-+-+-+">      
+               <seg met="-+">But she <sb/></seg>           
+               <seg met="-+"> is in <sb/></seg>            
+               <seg met="-+"> her grave, <sb/></seg><caesura/>              
+               <seg met="-+">and, <rhyme label="a">oh,</rhyme></seg>        
+            </l>           
+            <l n="12" met="-+-+-+" real="-+-+-+" rend="indent">        
+               <seg met="-+">The diff<sb/></seg>         
+               <seg met="-+">er<sb/>ence </seg>          
+               <seg met="-+">to <rhyme label="b">me!</rhyme></seg>       
+            </l>                   
+         </lg>          
+      </body>         
+   </text>   
+</TEI>

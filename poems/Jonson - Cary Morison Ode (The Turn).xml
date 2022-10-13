@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+   <teiHeader type="text">     
+      <fileDesc>   
+         <titleStmt>            
+            <title>Cary/Morison Ode: The Turn 65-74</title>       
+            <author>Ben Jonson</author>     
+         </titleStmt>         
+         <publicationStmt>    
+            <date>1640</date>       
+         </publicationStmt>        
+         <sourceDesc default="false"><p/>      
+         </sourceDesc>             
+      </fileDesc> 
+   </teiHeader>  
+   <text>     
+      <body>    
+         <lg n="1" type="couplet" met="-+(4/4/5/5/3/3/4/4/5/5/)" rhyme="aabbccddaa" org="uniform" sample="complete" part="N">          
+            <l n="1" met="-+-+-+-+" real="-+-+-+-+" part="N">    
+               <seg>It is </seg>          
+               <seg>not grow<sb/></seg>       
+               <seg>ing like </seg>   
+               <seg>a <rhyme label="a">tree</rhyme></seg>   
+            </l>     
+            <l n="2" met="-+-+-+-+" real="-+-+++-+" part="N">           
+               <seg>In bulke, </seg>              
+               <seg>doth make </seg>        
+               <seg met="-+" real="++" part="N">man bet<sb/></seg>        
+               <seg>ter <rhyme label="a">bee;</rhyme></seg>     
+            </l>        
+            <l n="3" met="-+-+-+-+-+" real="-+-+-+++-+" part="N">    
+               <seg>Or, stand<sb/></seg>         
+               <seg>ing long </seg>              
+               <seg>an Oake, </seg>              
+               <seg met="-+" real="++" part="N">three hun<sb/></seg>      
+               <seg>dred <rhyme label="b">yeare,</rhyme></seg>    
+            </l>             
+            <l n="4" met="-+-+-+-+-+" real="-+-+-+++-+" part="N">   
+               <seg>To fall </seg>          
+               <seg>a logge, </seg>         
+               <seg>at last, </seg>         
+               <seg met="-+" real="++" part="N">dry, bald, </seg>  
+               <seg>and <rhyme label="b">seare:</rhyme></seg>  
+            </l>           
+            <l n="5" met="-+-+-+" real="-+-+-+" part="N">      
+               <seg>A Lil<sb/></seg>                
+               <seg>lie of </seg>              
+               <seg>a <rhyme label="c">Day</rhyme></seg>   
+            </l>         
+            <l n="6" met="-+-+-+" real="-+-+-+" part="N">    
+               <seg>Is fair<sb/></seg>        
+               <seg>er farre, </seg>          
+               <seg>in <rhyme label="c">May;</rhyme></seg>  
+            </l>         
+            <l n="7" met="-+-+-+-+" real="-+-+-+-+" part="N">     
+               <seg>Al<sb/>though </seg>                
+               <seg>it fall </seg>              
+               <seg>and die </seg>              
+               <seg>that <rhyme label="d">night;</rhyme></seg>           
+            </l>           
+            <l n="8" met="-+-+-+-+" real="-+-+-+--+" part="N">   
+               <seg>It was </seg>      
+               <seg>the Plant, </seg>  
+               <seg>and flow<sb/></seg>  
+               <seg met="-+" real="--+" part="N">re of <rhyme label="d">light.</rhyme></seg>   
+            </l>        
+            <l n="9" met="-+-+-+-+-+" real="-+-+--++-+" part="N">    
+               <seg>In small </seg>            
+               <seg>pro<sb/>por<sb/></seg>      
+               <seg met="-+" real="--" part="N">tions we </seg>   
+               <seg met="-+" real="++" part="N">just beau<sb/></seg> 
+               <seg>ties <rhyme label="a"></rhyme>see:</seg>         
+            </l>         
+            <l n="10" met="-+-+-+-+-+" real="--++-+-+-+" part="N">  
+               <seg met="-+" real="--" part="N">And in </seg>       
+               <seg met="-+" real="++" part="N">short meas<sb/></seg>    
+               <seg>ures, life </seg>         
+               <seg>may per<sb/></seg>        
+               <seg>fect <rhyme label="a"></rhyme>bee.</seg>    
+            </l>       
+         </lg>      
+      </body>   
+   </text> 
+</TEI>
+

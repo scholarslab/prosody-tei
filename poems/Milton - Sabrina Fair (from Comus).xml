@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">   
+   <teiHeader type="text">       
+      <fileDesc>         
+         <titleStmt>         
+            <title>Sabrina Fair (from Comus)</title>  
+            <author>John Milton</author>  
+         </titleStmt>         
+         <publicationStmt>     
+            <date>1634</date>       
+         </publicationStmt>      
+         <sourceDesc default="false"><p/>    
+         </sourceDesc>                   
+      </fileDesc>  
+   </teiHeader>   
+   <text>      
+      <body>    
+         <lg n="1" type="stanza" met="-+(2/3/5/4/5/4/4/2)" rhyme="abcbaddc" org="uniform" sample="complete" part="N">  
+            <l n="1" met="-+-+" real="-+-+" part="N">         
+               <seg>Sa<sb/>brin</seg>              
+               <seg>a <rhyme label="a">fair,</rhyme></seg>  
+            </l>        
+            <l n="2" met="-+-+-+" real="+--+-+-" part="N">      
+               <seg met="-+" real="+-" part="N">List<sb/>en </seg>  
+               <seg>where thou </seg>        
+               <seg met="-+" real="-+-" part="N">art sit<sb/><rhyme label="b">ting</rhyme></seg>  
+            </l>           
+            <l n="3" met="-+-+-+-+-+" real="+--+-+-+-+" part="N">        
+               <seg met="-+" real="+-" part="N">Und<sb/>er </seg>        
+               <seg>the glas<sb/></seg>         
+               <seg>sie, cool, </seg>           
+               <seg>trans<sb/>lu</seg>          
+               <seg>cent <rhyme label="c">wave,</rhyme></seg>    
+            </l>         
+            <l n="4" met="-+-+-+-+" real="-+-+-+-+-" part="N">           
+               <seg>In twi<sb/></seg>    
+               <seg>sted braids </seg>    
+               <seg>of Lil<sb/></seg>       
+               <seg met="-+" real="-+-" part="N">lies knit<sb/><rhyme label="b">ting</rhyme></seg> 
+            </l>          
+            <l n="5" met="-+-+-+-+-+" real="-++--+-+-+" part="N">     
+               <seg>The loose </seg>          
+               <seg met="-+" real="+-" part="N">train of </seg>            
+               <seg>thy am<sb/></seg>          
+               <seg>ber<sb/>-drop<sb/></seg>         
+               <seg>ping <rhyme label="a">hair,</rhyme></seg>  
+            </l>         
+            <l n="6" met="-+-+-+-+" real="+--++-+" part="N">       
+               <seg met="-+" real="+" part="N">Lis<sb/></seg>      
+               <seg met="-+" real="--" part="N">ten for </seg>     
+               <seg met="-+" real="++" part="N">dear hon<sb/></seg> 
+               <seg>our's <rhyme label="d">sake,</rhyme></seg>      
+            </l>      
+            <l n="7" met="-+-+-+-+" real="+-+-+-+" part="N">   
+               <seg met="-+" real="+" part="N">God<sb/></seg>   
+               <seg>dess of </seg>             
+               <seg>the sil<sb/></seg>         
+               <seg>ver <rhyme label="d">lake,</rhyme></seg>   
+            </l>         
+            <l n="8" met="-+-+" real="+--+" part="N">            
+               <seg met="-+" real="+-" part="N">Lis<sb/>ten </seg>       
+               <seg>and <rhyme label="c">save.</rhyme></seg>         
+            </l>        
+         </lg>      
+         <lg n="2" type="stanza" met="-+(4/5/3/5/4/3/4/4/4/3/4/2)" rhyme="aabccbddeefg" org="uniform" sample="complete" part="N">   
+            <l n="9" met="-+-+-+-+" real="+-+-+-+" part="N">     
+               <seg met="-+" real="+" part="N">By </seg>          
+               <seg>the rush<sb/></seg>               
+               <seg>y-<sb/>fring<sb/></seg>           
+               <seg>èd <rhyme label="a">bank,</rhyme></seg>      
+            </l>          
+            <l n="10" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">        
+               <seg>Where grows </seg>                
+               <seg>the Will<sb/></seg>               
+               <seg>ow and </seg>              
+               <seg>the Os</seg>               
+               <seg>ier <rhyme label="a">dank,</rhyme></seg>     
+            </l>            
+            <l n="11" met="-+-+-+" real="-+-+--+" part="N">      
+               <seg>My slid<sb/></seg>            
+               <seg>ing Char<sb/></seg>           
+               <seg met="-+" real="--+" part="N">i<sb/>ot <rhyme label="b">stayes,</rhyme></seg>     
+            </l>        
+            <l n="12" met="-+-+-+-+-+" real="++-+---+-+" part="N">   
+               <seg met="-+" real="++" part="N">Thick set </seg>     
+               <seg>with <sb/>A</seg>     
+               <seg met="-+" real="--" part="N">gat, and </seg>             
+               <seg>the az<sb/></seg>           
+               <seg>ure <rhyme label="c">sheen</rhyme></seg>     
+            </l>        
+            <l n="13" met="-+-+-+-+" real="-+-+-+-+" part="N">      
+               <seg>Of Turk<sb/></seg>           
+               <seg>is blew, </seg>              
+               <seg>and Em<sb/></seg>            
+               <seg>rauld <rhyme label="c">green,</rhyme></seg>    
+            </l>           
+            <l n="14" met="-+-+-+" real="-+-+-+" part="N">      
+               <seg>That in </seg>                
+               <seg>the chan<sb/></seg>               
+               <seg>nell <rhyme label="b">strayes;</rhyme></seg>         
+            </l>     
+            <l n="15" met="-+-+-+" real="+-+-+-+" part="N">            
+               <seg met="-+" real="+" part="N">Whilst </seg>           
+               <seg>from off  </seg>               
+               <seg>the wat<sb/></seg>                
+               <seg>ers <rhyme label="d">fleet</rhyme></seg>          
+            </l>           
+            <l n="16" met="-+-+-+-+" real="+-+-+-+" part="N">      
+               <seg met="-+" real="+" part="N">Thus </seg>     
+               <seg>I set </seg>        
+               <seg>my print<sb/></seg>  
+               <seg>less <rhyme label="d">feet</rhyme></seg>  
+            </l>         
+            <l n="17" met="-+-+" real="+-+-+-+" part="N">          
+               <seg met="-+" real="+" part="N">O'er </seg>         
+               <seg>the Cow<sb/></seg>            
+               <seg>slip's Vel<sb/></seg>         
+               <seg>vet <rhyme label="e">head,</rhyme></seg>      
+            </l>     
+            <l n="18" met="-+-+-+" real="-++--+" part="N">             
+               <seg>That bends </seg>              
+               <seg met="-+" real="+-" part="N">not as </seg>       
+               <seg>I <rhyme label="e">tread,</rhyme></seg>         
+            </l>          
+            <l n="19" met="-+-+-+-+" real="+-+-+-+" part="N">         
+               <seg met="-+" real="+" part="N">Gen<sb/></seg>         
+               <seg>tle swain </seg>         
+               <seg>at thy </seg>            
+               <seg>re<sb/><rhyme label="f">quest</rhyme></seg>         
+               <note anchored="true"> Sabrina treads very daintily.  In a wonderful effect set up by three consecutive lines of unvarying catalectic tetrameter (classically the meter of incantation in English), this line’s medial trochee gets us to imagine the bending that the sense of the words denies.  Milton wrote these two call-and-response speeches for oral delivery in a courtly masque, so Sabrina’s measured feet were indeed technically “printless” guides to recitation in performance. But then he printed them anyhow: too good to lose.              
+               </note>           
+            </l>                 
+            <l n="20" met="-+-+" real="+-+" part="N">        
+               <seg met="-+" real="+" part="N">I </seg>           
+               <seg>am <rhyme label="g">here.</rhyme></seg>            
+            </l>        
+         </lg>       
+      </body>    
+   </text> 
+</TEI>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader type="text">   
+      <fileDesc>
+         <titleStmt>
+            <title>Piano</title>
+            <author>D.H. Lawrence</author>
+         </titleStmt>
+         <publicationStmt>
+            <date>1918</date>
+         </publicationStmt>
+         <sourceDesc default="false"><p/>
+         </sourceDesc>                         
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg n="1" type="quatrain" met="--+(5/5/6/6)" rhyme="aabb" org="uniform" sample="complete" part="N">
+            <l n="1" met="--+--+--+--+--+" real="+---+-+--+--+" part="N">
+               <seg met="--+" real="+-" part="N"> Soft<sb/>ly, </seg>
+               <seg>in the dusk, </seg>
+               <seg met="--+" real="-+" part="N">a wo<sb/></seg>
+               <seg>man is sing<sb/></seg>
+               <seg>ing to <rhyme label="a">me;</rhyme></seg>
+            </l>
+            <l n="2" met="--+--+--+--+--+" real="+--+--+--+--+" part="N">
+               <seg met="--+" real="+-" part="N">Ta<sb/>king </seg>
+               <seg met="--+" real="-+" part="N">me back  </seg>
+               <seg>down the vis<sb/></seg>
+               <seg>ta of years, </seg>
+               <seg>till I <rhyme label="a">see</rhyme></seg>
+            </l>
+            <l n="3" met="--+--+--+--+--+--+" real="-+--+---+---+--+-+" part="N">
+               <seg met="--+" real="-+" part="N">A child </seg>
+               <seg>sit<sb/>ting un<sb/></seg>
+               <seg met="--+" real="---+" part="N">der the pi<sb/>an<sb/></seg>
+               <seg met="--+" real="---+" part="N">o, in the boom </seg>
+               <seg>of the tink<sb/></seg>
+               <seg met="--+" real="-+" part="N">ling <rhyme label="b">strings</rhyme></seg>
+               <note anchored="true"> A hard row to hoe, this line, into licit feet. Taken by ear it falls pretty clearly into the six beats of an alexandrine, as will the final line of each stanza; and it more or less follows the anapestic lilt well established by the pentameter lines 1 and 2. Shoe-horning the vagrant syllables into place is another matter, however. 4B4V takes “tingling” as a disyllable (like “tinkling” in line 8) but allows the keystone word “piano” all three of its syllables (here and again in the comparably difficult line 10). This allowance entails, for good metrical accountancy, summoning twice at mid-line the so-called fourth paeonic foot: a sort of super-anapest with three slacks to a stress. The scansion looks rougher than the line, in acoustic practice, actually sounds. The secret of its outlaw success is the pause halfway, which is also to be felt in the hexameters ahead.
+               </note>
+            </l>
+            <l n="4" met="--+--+--+--+--+--+" real="-+--+++--+--+--+" part="N">
+               <seg met="--+" real="-+" part="N">And press<sb/></seg>
+               <seg>ing the small, </seg>
+               <seg met="--+" real="++" part="N">poised feet </seg>
+               <seg>of a mo<sb/></seg>
+               <seg>ther who smiles </seg>
+               <seg>as she <rhyme label="b">sings.</rhyme></seg>
+            </l>
+         </lg>
+         <lg n="2" type="quatrain" met="--+(5/5/5/6)" rhyme="aabb" org="uniform" sample="complete" part="N">
+            <l n="5" met="--+--+--+--+--+" real="-+--+--+--+--+" part="N"> 
+               <seg met="--+" real="-+" part="N">In spite </seg>
+               <seg>of my<sb/>self, </seg>
+               <seg>the in<sb/>si<sb/></seg>
+               <seg>di<sb/>ous mas<sb/></seg>
+               <seg>tery of <rhyme label="a">song</rhyme></seg>
+            </l>
+            <l n="6" met="--+--+--+--+--+" real="-+-+--+--+--+" part="N">
+               <seg met="--+" real="-+" part="N">Be<sb/>trays </seg>
+               <seg met="--+" real="-+" part="N">me back, </seg>
+               <seg>till the heart </seg>
+               <seg>of me weeps </seg>
+               <seg>to be<sb/><rhyme label="a">long</rhyme></seg>
+            </l>
+            <l n="7" met="--+--+--+--+--+" real="--++-+--+-+--+" part="N">
+               <seg met="--+" real="--" part="N">To the </seg>
+               <seg met="--+" real="++" part="N">old Sun<sb/></seg> 
+               <seg met="--+" real="-+" part="N">day ev<sb/></seg>
+               <seg>enings at home, </seg>
+               <seg met="--+" real="-+" part="N">with win<sb/></seg>
+               <seg>ter out<sb/><rhyme label="b">side</rhyme></seg>
+            </l>
+            <l n="8" met="--+--+--+--+--+--+" real="-+--+-+--+--+--+" part="N">
+               <seg met="--+" real="-+" part="N">And hymns </seg>
+               <seg>in the co<sb/></seg>
+               <seg met="--+" real="-+" part="N">sy par</seg>
+               <seg>lour, the tink<sb/></seg>
+               <seg>ling pi<sb/>an<sb/></seg>
+               <seg>o our <rhyme label="b">guide.</rhyme></seg>
+            </l>
+         </lg>
+         <lg n="3" type="quatrain" met="--+(5/5/5/6)" rhyme="aabb" org="uniform" sample="complete" part="N">
+            <l n="9" met="--+--+--+--+--+-" real="-+--+--+--+--+-" part="N">
+               <seg met="--+" real="-+" part="N">So now </seg>
+               <seg>it is vain </seg>
+               <seg>for the sing<sb/></seg>
+               <seg>er to burst </seg>
+               <seg>in<sb/>to clam<sb/><rhyme label="a">our</rhyme></seg>
+            </l>
+            <l n="10" met="--+--+--+--+--+-" real="--++-+--+--+--+-" part="N">
+               <seg>With the great </seg>
+               <seg met="--+" real="+-+" part="N">black pi<sb/>an<sb/></seg>
+               <seg>o a<sb/>ppass<sb/></seg>
+               <seg>i<sb/>on<sb/>at<sb/></seg>
+               <seg>o. The glam<sb/><rhyme label="a">our</rhyme></seg>
+               <note anchored="true"> This poem is saved from drowning in its own sentimentality by Lawrence’s sardonic sense of erotic humor, which this line brings to a head. The woman now at the keys may be singing her heart out, but the speaker’s infantilizing nostalgia precludes the response she is no doubt after. aTo him her climactic pitch just sounds over the top, and beside the point – a disconnect underscored lexically by the highfalutin Italian lingo, syntactically by the deflationary full-stop caesura, and prosodically by replacing the second-foot anapest with an exotic amphimacer (stress-slack-stress).
+               </note>
+            </l>
+            <l n="11" met="--+--+--+--+--+" real="-+-+--+--+--+" part="N">
+               <seg met="--+" real="-+" part="N">Of chil<sb/></seg>
+               <seg met="--+" real="-+" part="N">dish days </seg>
+               <seg>is u<sb/>pon </seg>
+               <seg>me, my man<sb/></seg>
+               <seg>hood is <rhyme label="b">cast</rhyme></seg>
+            </l>
+            <l n="12" met="--+--+--+--+--+--+" real="+--+--+--+--+--+" part="N">
+               <seg met="--+" real="+-" part="N">Down in </seg>
+               <seg met="--+" real="-+" part="N">the flood </seg>
+               <seg>of re<sb/>mem<sb/></seg>
+               <seg>brance, I weep </seg>
+               <seg>like a child </seg>
+               <seg>for the <rhyme label="b">past.</rhyme></seg>
+            </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

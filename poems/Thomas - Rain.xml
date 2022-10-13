@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader type="text">   
+      <fileDesc>
+         <titleStmt>
+            <title>Rain</title>
+            <author>Edward Thomas</author>
+         </titleStmt>
+         <publicationStmt>
+            <date>1916</date>
+         </publicationStmt>
+         <sourceDesc default="false"><p/>
+         </sourceDesc>                         
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg n="1" type="stanza" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="none" org="uniform" sample="complete" part="N">
+            <l n="1" met="-+-+-+-+-+" real="++-++---++" part="N">
+               <seg met="-+" real="++" part="N">Rain, mid<sb/></seg>
+               <seg>night rain, </seg>
+               <seg met="-+" real="+-" part="N">no<sb/>thing </seg>
+               <seg met="-+" real="--" part="N">but the </seg>
+               <seg met="-+" real="++" part="N">wild rain </seg>
+               <note anchored="true"> Written in the trenches of World War I, this blank verse from a bleak landscape makes remarkable use of caesura and enjambment as guard rails for an obsessive meditation that dwells obviously on verbal repetition, more subtly on the internal rhyme of assonance. Listen for it.</note>
+            </l>
+            <l n="2" met="-+-+-+-+-+" real="--++-+-+-+" part="N">
+               <seg met="-+" real="--" part="N">On this </seg>
+               <seg met="-+" real="++" part="N">bleak hut,  </seg>
+               <seg>and sol<sb/></seg>
+               <seg>i<sb/>tude, </seg>
+               <seg>and me </seg>
+            </l>
+            <l n="3" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>Re<sb/>mem<sb/></seg>
+               <seg>ber<sb/>ing </seg>
+               <seg>a<sb/>gain </seg>
+               <seg>that I </seg>
+               <seg>shall die</seg>
+            </l>
+            <l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>And nei<sb/></seg>
+               <seg>ther hear </seg>
+               <seg>the rain </seg>
+               <seg>nor give </seg>
+               <seg>it thanks </seg>
+            </l>
+            <l n="5" met="-+-+-+-+-+" real="-+-++--+-+" part="N"> 
+               <seg>For wash<sb/></seg>
+               <seg>ing me </seg>
+               <seg met="-+" real="+-" part="N">clean<sb/>er </seg>
+               <seg>than I </seg>
+               <seg>have been </seg>
+            </l>
+            <l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>Since I </seg>
+               <seg>was born </seg>
+               <seg>un<sb/>to </seg>
+               <seg>this sol<sb/></seg>
+               <seg>i<sb/>tude.</seg>
+            </l>
+            <l n="7" met="-+-+-+-+-+" real="+---+--++-+" part="N">
+               <seg met="-+" real="+-" part="N">Bless<sb/>ed </seg>
+               <seg met="-+" real="--+" part="N">are the dead </seg> 
+               <seg met="-+" real="--" part="N">that the </seg>
+               <seg met="-+" real="++" part="N">rain rains </seg>
+               <seg>u<sb/>pon:</seg>
+            </l>
+            <l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>But here </seg>
+               <seg>I pray </seg>
+               <seg>that none </seg>
+               <seg>whom once </seg>
+               <seg>I loved</seg>
+            </l>
+            <l n="9" met="-+-+-+-+-+" real="-+--+-+-+-+" part="N">
+               <seg>Is dy<sb/></seg>
+               <seg met="-+" real="--+" part="N">ing to<sb/>night </seg>
+               <seg>or ly<sb/></seg>
+               <seg>ing still </seg>
+               <seg>a<sb/>wake</seg>
+            </l>
+            <l n="10" met="-+-+-+-+-+" real="+-+-+--+-+" part="N">
+               <seg met="-+" real="+-" part="N">Sol<sb/>i<sb/></seg>
+               <seg met="-+" real="+-" part="N">tar<sb/>y, </seg>
+               <seg met="-+" real="+-" part="N">lis<sb/>ten<sb/></seg>
+               <seg>ing to </seg>
+               <seg>the rain,</seg>
+            </l>
+            <l n="11" met="-+-+-+-+-+" real="+--+-+-+-+" part="N">
+               <seg met="-+" real="+-" part="N">Ei<sb/>ther </seg>
+               <seg>in pain </seg>
+               <seg>or thus </seg>
+               <seg>in sym<sb/></seg>
+               <seg>pa<sb/>thy</seg>
+            </l>
+            <l n="12" met="-+-+-+-+-+" real="+--+-+-+-+" part="N">
+               <seg met="-+" real="+-" part="N">Help<sb/>less </seg>
+               <seg>a<sb/>mong </seg>
+               <seg>the li<sb/></seg>
+               <seg>ving and </seg>
+               <seg>the dead,</seg>
+            </l>
+            <l n="13" met="-+-+-+-+-+" real="--++--++-+" part="N">
+               <seg met="-+" real="--" part="N">Like a </seg>
+               <seg met="-+" real="++" part="N">cold wa<sb/></seg>
+               <seg met="-+" real="--" part="N">ter a<sb/></seg>
+               <seg met="-+" real="++" part="N">mong bro<sb/></seg>
+               <seg>ken reeds, </seg>
+            </l>
+            <l n="14" met="-+-+-+-+-+" real="+---+-+++-+" part="N">
+               <seg met="-+" real="+-" part="N">Myr<sb/>i<sb/></seg>
+               <seg met="-+" real="--+" part="N">ads of bro<sb/></seg>
+               <seg>ken reeds </seg>
+               <seg met="-+" real="++" part="N">all still </seg>
+               <seg>and stiff, </seg>
+            </l>
+            <l n="15" met="-+-+-+-+-+" real="-+-+++--++" part="N">
+               <seg>Like me </seg>
+               <seg>who have </seg>
+               <seg met="-+" real="++" part="N">no love </seg>
+               <seg met="-+" real="--" part="N">which this </seg>
+               <seg met="-+" real="++" part="N">wild rain</seg>
+            </l>
+            <l n="16" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>Has not </seg>
+               <seg>dis<sb/>solved </seg>
+               <seg>ex<sb/>cept </seg>
+               <seg>the love </seg>
+               <seg>of death, </seg>
+            </l>
+            <l n="17" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>If love </seg>
+               <seg>it be </seg>
+               <seg>towards what </seg>
+               <seg>is per<sb/></seg>
+               <seg>fect and </seg>
+            </l>
+            <l n="18" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>Can<sb/>not, </seg>
+               <seg>the temp<sb/></seg>
+               <seg>est tells </seg>
+               <seg>me, dis<sb/></seg>
+               <seg>a<sb/>ppoint.</seg>
+            </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

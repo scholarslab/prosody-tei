@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">    
+   <teiHeader type="text">         
+      <fileDesc>        
+         <titleStmt>        
+            <title>To Daffodils</title>           
+            <author>Robert Herrick</author>       
+         </titleStmt>         
+         <publicationStmt>      
+            <date>1648</date>        
+         </publicationStmt>        
+         <sourceDesc default="false"><p/>    
+         </sourceDesc>                      
+      </fileDesc>   
+   </teiHeader>  
+   <text>      
+      <body>     
+         <lg n="1" type="stanza" met="-+(4/3/4/3/1/3/1/3/4/3)" rhyme="abcbddceae" org="uniform" sample="complete" part="N">             <l n="1" met="-+-+-+-+" real="++-+-+-+" part="N">        
+            <seg met="-+" real="++" part="N">Fair Daf<sb/></seg>            
+            <seg>fo<sb/>dils, </seg>               
+            <seg>we weep </seg>            
+            <seg>to <rhyme label="a">see</rhyme></seg>     
+         </l>            
+            <l n="2" met="-+-+-+" real="-+-+-+" part="N">     
+               <seg>You haste </seg>           
+               <seg>a<sb/>way </seg>          
+               <seg>so <rhyme label="b">soon;</rhyme></seg>         
+            </l>         
+            <l n="3" met="-+-+-+-+" real="-+-+-+-+" part="N">          
+               <seg>As yet </seg>         
+               <seg>the earl<sb/></seg>   
+               <seg>y ris<sb/></seg>      
+               <seg>ing <rhyme label="c"></rhyme>sun </seg>    
+            </l>     
+            <l n="4" met="-+-+-+" real="-+-+-+" part="N"> 
+               <seg>Has not  </seg>    
+               <seg>a<sb/>ttain'd </seg>   
+               <seg>his <rhyme label="b">noon.</rhyme></seg>  
+            </l>        
+            <l n="5" met="-+" real="++" part="N">  
+               <seg met="-+" real="++" part="N">Stay, <rhyme label="d"></rhyme>stay, </seg>   
+            </l>       
+            <l n="6" met="-+-+-+" real="-+-+-+" part="N">          
+               <seg>Un<sb/>til </seg>   
+               <seg>the hast<sb/></seg>        
+               <seg>ing <rhyme label="d">day</rhyme></seg>     
+            </l>             
+            <l n="7" met="-+" real="-+" part="N">    
+               <seg>Has <rhyme label="c">run</rhyme></seg>            
+            </l>          
+            <l n="8" met="-+-+-+" real="+--+-+" part="N">         
+               <seg met="-+" real="+-" part="N">But to </seg>   
+               <seg>the ev<sb/></seg>              
+               <seg>en<sb/><rhyme label="e">-song;</rhyme></seg>    
+            </l>     
+            <l n="9" met="-+-+-+-+" real="-+-+-+-+" part="N">     
+               <seg>And, hav<sb/></seg>              
+               <seg>ing pray'd </seg>                
+               <seg>to<sb/>geth<sb/></seg>           
+               <seg>er, <rhyme label="a">we</rhyme></seg>          
+            </l>         
+            <l n="10" met="-+-+-+" real="-+-+-+" part="N">  
+               <seg>Will go </seg>   
+               <seg>with you </seg>      
+               <seg>a<sb/><rhyme label="e"></rhyme>long.</seg>         
+            </l>         
+         </lg>        
+         <lg n="2" type="stanza" met="-+(4/3/4/3/1/3/1/3/4/3/)" rhyme="abcbddceae" org="uniform" sample="complete" part="N">   
+            <l n="11" met="-+-+-+-+" real="+-++-+-+|-+++-+-+" part="N">  
+               <seg met="-+" real="+-" part="N">We have </seg>         
+               <seg met="-+" real="++" part="N">short time </seg>      
+               <seg>to stay, </seg>                
+               <seg>as <rhyme label="a"></rhyme>you, </seg>  
+            </l>            
+            <l n="12" met="-+-+-+" real="-+-+-+" part="N">      
+               <seg>We have </seg>             
+               <seg>as short </seg>             
+               <seg>a <rhyme label="b">spring;</rhyme></seg>          
+               <note anchored="true"> The little word “we” goes in and out of stress in this lyric, as its range of reference                   deepens. First it sorts humans and flowers far enough apart to afford the conventional sort of pity to                   which the slack “we” of line 1 corresponds. By line 9, though, a dawning recognition that human life is                   no less transient than floral life exposes “we” on a stressed precipice of enjambment. The stress persists                   into line 11 to emphasize the new stanza’s ripening conviction that decay and death await us humans                   too. And then in line 12, as once more in line 15, “we” goes slack again, but now to render a fatality that                   all of nature shares: the subject of the rest of this sobering poem remains, not                   “we human beings,” but “we living, mortal things.” 
+               </note>        
+            </l>            
+            <l n="13" met="-+-+-+-+" real="-+-+-+-+" part="N">          
+               <seg>As quick </seg>        
+               <seg>a growth </seg>           
+               <seg>to meet </seg>            
+               <seg>de<sb/><rhyme label="c"></rhyme>cay,</seg>          
+            </l>           
+            <l n="14" met="-+-+-+" real="-+-+-+" part="N">       
+               <seg>As you, </seg>             
+               <seg>or an<sb/></seg>           
+               <seg>y<sb/><rhyme label="b"></rhyme>thing.</seg>    
+            </l>          
+            <l n="15" met="-+" real="-+" part="N">   
+               <seg>We <rhyme label="d"></rhyme>die</seg>  
+            </l>       
+            <l n="16" met="-+-+-+" real="-+++-+" part="N"> 
+               <seg>As your </seg>      
+               <seg>hours do, </seg>    
+               <seg>and <rhyme label="d">dry</rhyme></seg>   
+            </l>          
+            <l n="17" met="-+" real="-+" part="N">  
+               <seg>A<sb/><rhyme label="c">way,</rhyme></seg>    
+            </l>     
+            <l n="18" met="-+-+-+" real="+--+-+" part="N">    
+               <seg met="-+" real="+-" part="N">Like to </seg>
+               <seg>the sum<sb/></seg>  
+               <seg>mer's <rhyme label="e">rain;</rhyme></seg>    
+            </l>         
+            <l n="19" met="-+-+-+-+" real="-+-+-+-+" part="N">  
+               <seg>Or as </seg>             
+               <seg>the pearls </seg>        
+               <seg>of morn<sb/></seg>       
+               <seg>ing's <rhyme label="a">dew,</rhyme></seg>   
+            </l>         
+            <l n="20" met="-+-+-+" real="+--+-+" part="N">  
+               <seg met="-+" real="+-" part="N">Ne'er to </seg>    
+               <seg>be found </seg>           
+               <seg>a<sb/><rhyme label="e">gain.</rhyme></seg>     
+            </l>      
+         </lg>       
+      </body>   
+   </text> 
+</TEI>

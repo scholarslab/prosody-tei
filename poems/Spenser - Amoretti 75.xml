@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">   
+   <teiHeader type="text">    
+      <fileDesc>  
+         <titleStmt>     
+            <title>Amoretti 75</title>     
+            <author>Edmund Spenser</author>   
+         </titleStmt>      
+         <publicationStmt>       
+            <date>1595</date>    
+         </publicationStmt>       
+         <sourceDesc default="false"><p/>   
+         </sourceDesc>                     
+      </fileDesc>  
+   </teiHeader>   
+   <text>    
+      <body>      
+         <lg n="1" type="stanza" met="-+(5/5/5/5/5/5/5/5/5/5/5/5/5/5)" rhyme="ababbcbccdcdee" org="uniform" sample="complete" part="N">  
+            <l n="1" met="-+-+-+-+-+" real="++-+-+-+-+|-+-+-+-+-+" part="N">        
+               <seg met="-+" real="++" part="N"> One day </seg>          
+               <seg>I wrote </seg>    
+               <seg>her name </seg>      
+               <seg>u<sb/>pon </seg>     
+               <seg>the <rhyme label="a">strand,</rhyme></seg> 
+            </l>            
+            <l n="2" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">     
+               <seg>But came </seg>         
+               <seg>the waves </seg>     
+               <seg>and wash<sb/></seg>  
+               <seg>èd it </seg>         
+               <seg>a<sb/><rhyme label="b">way:</rhyme></seg>   
+            </l>           
+            <l n="3" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">   
+               <seg>A<sb/>gayne </seg>      
+               <seg>I wrote </seg>          
+               <seg>it with </seg>          
+               <seg>a sec<sb/></seg>        
+               <seg>ond <rhyme label="a">hand,</rhyme></seg>  
+            </l>          
+            <l n="4" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">        
+               <seg>But came </seg>       
+               <seg>the tyde, </seg>      
+               <seg>and made </seg>       
+               <seg>my paynes </seg>      
+               <seg>his <rhyme label="b">pray.</rhyme></seg>      
+               <note anchored="true"> By now you’ve seen how regularly the rhythm of these lines conforms to their meter.                   That steady reinforcement forms part of Spenser’s bid to construct a sonnet that will, as he goes on to                   claim in the sestet, stand the test of time. So does his unusually tight-knit rhyme scheme. So does the                   armory of alliteration and assonance, which here in line 4 bestows on four of the five stressed syllables                   the same ringing vowel. </note>       
+            </l>          
+            <l n="5" met="-+-+-+-+-+" real="++-+-+-+-+" part="N">           
+               <seg met="-+" real="++" part="N">Vayne man, </seg>           
+               <seg>sayd she, </seg>              
+               <seg>that doest </seg>             
+               <seg>in vaine </seg>               
+               <seg>as<sb/><rhyme label="b">say,</rhyme></seg>         
+            </l>           
+            <l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">    
+               <seg>A mort<sb/></seg>            
+               <seg>all thing </seg>             
+               <seg>so to </seg>              
+               <seg>im<sb/>mort<sb/></seg>    
+               <seg>al<sb/><rhyme label="c"></rhyme>ize.</seg>      
+            </l>           
+            <l n="7" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">         
+               <seg>For I </seg>       
+               <seg>my selve </seg>            
+               <seg>shall lyke </seg>          
+               <seg>to this </seg>             
+               <seg>de<sb/><rhyme label="b">cay,</rhyme></seg>  
+            </l>           
+            <l n="8" met="-+-+-+-+-+" real="-+-+-+-+++" part="N">    
+               <seg>And eek </seg>           
+               <seg>my name </seg>           
+               <seg>bee wy<sb/></seg>        
+               <seg>ped out </seg>           
+               <seg met="-+" real="++" part="N">lyke<sb/><rhyme label="c">wize.</rhyme></seg> 
+            </l>            
+            <l n="9" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">       
+               <seg>Not so, </seg>              
+               <seg>(quod I) </seg>             
+               <seg>let base<sb/></seg>         
+               <seg>r things </seg>             
+               <seg>de<sb/><rhyme label="c">vize</rhyme></seg>   
+            </l>           
+            <l n="10" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N"> 
+               <seg>To dy </seg>             
+               <seg>in dust, </seg>          
+               <seg>but you </seg>           
+               <seg>shall live </seg>        
+               <seg>by <rhyme label="d">fame:</rhyme></seg>           
+            </l>           
+            <l n="11" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">     
+               <seg>My verse </seg>             
+               <seg>your ver<sb/></seg>         
+               <seg>tues rare </seg>            
+               <seg>shall e<sb/></seg>          
+               <seg>tern<sb/><rhyme label="c">ize,</rhyme></seg>     
+            </l>        
+            <l n="12" met="-+-+-+-+-+" real="-+-+-+-+--+" part="N">       
+               <seg>And in </seg>              
+               <seg>the hev<sb/></seg>        
+               <seg>ens wryte </seg>          
+               <seg>your glor<sb/></seg>      
+               <seg met="-+" real="--+" part="N">r<sb/>ious <rhyme label="d">name,</rhyme></seg>  
+            </l>         
+            <l n="13" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N"> 
+               <seg>Where when<sb/></seg>         
+               <seg>as death </seg>               
+               <seg>shall all </seg>              
+               <seg>the world </seg>              
+               <seg>sub<sb/><rhyme label="e">dew,</rhyme></seg>      
+            </l>            
+            <l n="14" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>Our love </seg>   
+               <seg>shall live, </seg>       
+               <seg>and la<sb/></seg>        
+               <seg>ter life </seg>          
+               <seg>re<sb/><rhyme label="e">new.</rhyme></seg>   
+            </l>     
+         </lg>       
+      </body>  
+   </text> 
+</TEI>

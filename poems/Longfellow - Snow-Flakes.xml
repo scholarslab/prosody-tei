@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">    
+   <teiHeader type="text">          
+      <fileDesc>          
+         <titleStmt>             
+            <title>Snow-Flakes</title>            
+            <author>Henry Wadsworth Longfellow</author>   
+         </titleStmt>        
+         <publicationStmt>        
+            <date>1863</date>      
+         </publicationStmt>        
+         <sourceDesc default="false"><p/>     
+         </sourceDesc>                         
+      </fileDesc>   
+   </teiHeader>   
+   <text>   
+      <body>       
+         <lg n="1" type="sixain" met="-+(4/5/4/4/3/2)" rhyme="ababcc" org="uniform" sample="complete" part="N">     
+            <l n="1" met="-+-+-+-+" real="+--+-+-+" part="N">         
+               <seg met="-+" real="+-" part="N"> Out of </seg>     
+               <seg>the bos<sb/></seg>          
+               <seg>om of </seg>           
+               <seg>the <rhyme label="a">Air,</rhyme> </seg>          
+            </l>    
+            <l n="2" met="-+-+-+-+-+-" real="+--++--+-+-|+--+-+-+-+-" part="N">    
+               <seg met="-+" real="+-" part="N">Out of </seg>      
+               <seg>the cloud<sb/></seg>            
+               <seg met="-+" real="+-" part="N">-folds of </seg>         
+               <seg>her gar<sb/></seg>              
+               <seg>ments sha<sb/><rhyme label="b">ken,</rhyme></seg>     
+            </l>        
+            <l n="3" met="-+-+-+-+" real="+--+-+-+" part="N">        
+               <seg met="-+" real="+-" part="N">O<sb/>ver </seg>        
+               <seg>the wood<sb/></seg>        
+               <seg>lands brown </seg>           
+               <seg>and <rhyme label="a">bare,</rhyme></seg>       
+            </l>         
+            <l n="4" met="-+-+-+-+-" real="+--+-+-+-" part="N">      
+               <seg met="-+" real="+-" part="N">O<sb/>ver </seg>            
+               <seg>the har<sb/></seg>           
+               <seg>vest<sb/>-fields </seg>         
+               <seg>for<sb/>sak<sb/><rhyme label="b">en,</rhyme></seg>             
+            </l>           
+            <l n="5" met="-+-+-+" real="+--+-+" part="N">       
+               <seg met="-+" real="+-" part="N">Si<sb/>lent, </seg>             
+               <seg>and soft, </seg>     
+               <seg>and <rhyme label="c">slow</rhyme></seg>        
+            </l>          
+            <l n="6" met="-+-+" real="-+-+" part="N">       
+               <seg>De<sb/>scends </seg>              
+               <seg>the <rhyme label="c">snow.</rhyme></seg>      
+            </l>         
+         </lg>       
+         <lg n="2" type="sixain" met="-+(4/5/4/4/3/2)" rhyme="ababcc" org="uniform" sample="complete" part="N">  
+            <l n="7" met="-+-+-+-+" real="+---+-+-+" part="N">       
+               <seg met="-+" real="+-" part="N">E<sb/>ven </seg>       
+               <seg met="-+" real="--+" part="N">as our cloud<sb/></seg>     
+               <seg>y fan<sb/></seg>             
+               <seg>cies <rhyme label="a">take</rhyme> </seg>    
+            </l>           
+            <l n="8" met="-+-+-+-+-+-" real="+--+-+-+-+-" part="N">    
+               <seg met="-+" real="+-" part="N">Sud<sb/>den<sb/></seg>       
+               <seg>ly shape </seg>              
+               <seg>in some </seg>             
+               <seg>di<sb/>vine </seg>             
+               <seg>ex<sb/>press<sb/><rhyme label="b">ion,</rhyme></seg>     
+            </l>           
+            <l n="9" met="-+-+-+-+" real="+---+-+-+" part="N">            
+               <seg met="-+" real="+-" part="N">E<sb/>ven </seg>           
+               <seg met="-+" real="--+" part="N">as the troub<sb/></seg>           
+               <seg>led heart </seg>             
+               <seg>doth <rhyme label="a">make</rhyme></seg>   
+            </l>          
+            <l n="10" met="-+-+-+-+-" real="--++-+-+-" part="N">       
+               <seg met="-+" real="--" part="N">In the </seg>           
+               <seg met="-+" real="++" part="N">white count<sb/></seg>       
+               <seg>en<sb/>ance </seg>        
+               <seg>con<sb/>fess<sb/><rhyme label="b">ion,</rhyme></seg>   
+            </l>         
+            <l n="11" met="-+-+-+" real="-+-+-+" part="N">       
+               <seg>The troub<sb/></seg>              
+               <seg>led sky </seg>             
+               <seg>re<sb/><rhyme label="c">veals</rhyme></seg>   
+            </l>         
+            <l n="12" met="-+-+" real="-+-+" part="N">     
+               <seg>The grief </seg>              
+               <seg>it <rhyme label="c">feels.</rhyme></seg>         
+            </l>       
+         </lg>           
+         <lg n="3" type="sixain" met="-+(4/5/4/4/3/2)" rhyme="ababcc" org="uniform" sample="complete" part="N">  
+            <l n="13" met="-+-+-+-+" real="+--+-+-+" part="N">         
+               <seg met="-+" real="+-" part="N">This is </seg>         
+               <seg>the po<sb/></seg>          
+               <seg>em of </seg>              
+               <seg>the <rhyme label="a">air,</rhyme> </seg>        
+            </l>        
+            <l n="14" met="-+-+-+-+-+-" real="+--+-+-+-+-" part="N">      
+               <seg met="-+" real="+-" part="N">Slow<sb/>ly </seg>      
+               <seg>in si<sb/></seg>            
+               <seg>lent syll<sb/></seg>          
+               <seg>a<sb/>bles </seg>              
+               <seg>re<sb/>cord<sb/><rhyme label="b">ed;</rhyme></seg>      
+            </l>             
+            <l n="15" met="-+-+-+-+" real="+--+-+-+" part="N">    
+               <seg met="-+" real="+-" part="N">This is </seg>        
+               <seg>the se<sb/></seg>            
+               <seg>cret of </seg>            
+               <seg>des<sb/><rhyme label="a">pair,</rhyme></seg>      
+            </l>         
+            <l n="16" met="-+-+-+-+-" real="+--+-+-+-" part="N">      
+               <seg met="-+" real="+-" part="N">Long in </seg>          
+               <seg>its cloud<sb/></seg>        
+               <seg>y bos<sb/></seg>              
+               <seg>om hoar<sb/><rhyme label="b">ded,</rhyme></seg>     
+            </l>           
+            <l n="17" met="-+-+-+" real="++---+|-+-+-+" part="N">          
+               <seg met="-+" real="++" part="N">Now whis<sb/></seg>        
+               <seg met="-+" real="--" part="N">pered and </seg>            
+               <seg>re<sb/><rhyme label="c">vealed</rhyme></seg>         
+            </l>          
+            <l n="18" met="-+-+" real="-+-+" part="N">            
+               <seg>To wood </seg>             
+               <seg>and <rhyme label="c">field.</rhyme></seg>     
+            </l>      
+         </lg>   
+      </body>   
+   </text>
+</TEI>
+
+

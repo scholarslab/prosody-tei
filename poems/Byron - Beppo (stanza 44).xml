@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI   PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu/prosody/poems/tei_all.dtd"> 
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+   <teiHeader type="text">     
+      <fileDesc>   
+         <titleStmt>            
+            <title>Beppo: Stanza XLIV </title>       
+            <author>Lord Byron</author>     
+         </titleStmt>         
+         <publicationStmt>    
+            <date>1817</date>       
+         </publicationStmt>        
+         <sourceDesc default="false"><p/>      
+         </sourceDesc>             
+      </fileDesc> 
+   </teiHeader>  
+   <text>     
+      <body> 
+         <lg n="1" type="octave" met="-+(5/5/5/5/5/5/5/5)" rhyme="abababcc" org="uniform" sample="complete" part="N">
+            <l n="1" met="-+-+-+-+-+" real="-+-+--++-+-" part="N">
+               <seg>I love </seg>
+               <seg>the lang<sb/></seg>
+               <seg met="-+" real="--" part="N">uage that </seg>
+               <seg met="-+" real="++" part="N">soft bast<sb/></seg>
+               <seg>ard Lat<sb/><rhyme label="a">in,</rhyme></seg>
+            </l>
+            <l n="2" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>Which melts </seg>
+               <seg>like kiss<sb/></seg>
+               <seg>es from </seg>
+               <seg>a fe<sb/></seg>
+               <seg>male <rhyme label="b">mouth,</rhyme></seg>
+            </l>
+            <l n="3" met="-+-+-+-+-+" real="-+-+-+-+-+-" part="N">
+               <seg>And sounds </seg>
+               <seg>as if </seg>
+               <seg>it should </seg>
+               <seg>be writ </seg>
+               <seg>on sat<sb/><rhyme label="a">in,</rhyme></seg>
+            </l>
+            <l n="4" met="-+-+-+-+-+" real="-+-+-+--++" part="N">
+               <seg>With syll<sb/></seg>
+               <seg>a<sb/>bles </seg>
+               <seg>which breathe </seg>
+               <seg met="-+" real="--" part="N">of the </seg>
+               <seg met="-+" real="++" part="N">sweet <rhyme label="b">South,</rhyme></seg>
+            </l>
+            <l n="5" met="-+-+-+-+-+" real="-+-+-+-+-+-" part="N">
+               <seg>And gent<sb/></seg>
+               <seg>le li<sb/></seg>
+               <seg>quids glid<sb/></seg>
+               <seg>ing all </seg>
+               <seg>so pat <rhyme label="a">in,</rhyme></seg>
+            </l>
+            <l n="6" met="-+-+-+-+-+" real="-+-+-+-+-+" part="N">
+               <seg>That not </seg>
+               <seg>a sing<sb/></seg>
+               <seg>le acc<sb/></seg>
+               <seg>ent seems </seg>
+               <seg>un<sb/><rhyme label="b">couth.</rhyme></seg>
+               <note anchored="true">That the third a-rhyme hits a sour note anticipates Byron’s complaint in the following couplet
+                  about the gracelessness of English when compared to Italian. But the rhythm of line 6 is satin-
+                  smooth, in order to set up by contrast the coarse and bumptious line 7, with its draggledy double-
+                  feminine ending to boot. Meanwhile, the feminine-ended lines 1, 3, and 5 have done a quiet
+                  imitation of the classic meter of Italian poetry since Dante, the hendecasyllabic.
+               </note>
+            </l>
+            <l n="7" met="-+-+-+-+-+" real="--++-+-+-+--" part="N">
+               <seg met="-+" real="--" part="N">Like our </seg>
+               <seg met="-+" real="++" part="N">harsh north<sb/></seg>
+               <seg>ern whist<sb/></seg>
+               <seg>ling, grunt<sb/></seg>
+               <seg met="-+" real="-+--">ing gut<sb/>tur<sb/><rhyme label="c">al,</rhyme></seg>
+            </l>
+            <l n="8" met="-+-+-+-+-+" real="-+-+-+-+-+--" part="N">
+               <seg>Which we're </seg>
+               <seg>o<sb/>bliged </seg>
+               <seg>to hiss, </seg>
+               <seg>and spit, </seg>
+               <seg met="-+" real="-+--" part="N">and spu<sb/>tter <rhyme label="c">all.</rhyme></seg>
+            </l>
+         </lg>
+      </body>
+   </text>
+</TEI>
